@@ -13,7 +13,7 @@ RUN apk update \
 
 ADD Gem* /guide/
 
-RUN useradd jekyll
+RUN adduser -S jekyll
 
 RUN chown -R jekyll:0 /guide && chmod -R 770 /guide
 
