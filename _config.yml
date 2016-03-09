@@ -1,5 +1,5 @@
 markdown: redcarpet
-name: 18F Guides Template
+name: BC Agile Guides Template
 exclude:
 - CONTRIBUTING.md
 - Gemfile
