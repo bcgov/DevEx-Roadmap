@@ -2,8 +2,8 @@
 permalink: /
 title: Introduction
 ---
-Use this template to create [18F Guides](http://pages.18f.gov/guides/)
-and other 18F-branded documentation available on [18F
+Use this template to create [BC Agile Guides](http://pages.18f.gov/guides/)
+and other BC Government-branded documentation available on [18F
 Pages](https://pages.18f.gov/). It's structured like an 18F Guides guide,
 and it walks you through the process of creating and publishing an 18F Pages document based on
 the same theme.
