@@ -5,7 +5,7 @@ title: Introduction
 Use this template to create [BC Agile Guides](http://pages.18f.gov/guides/)
 and other BC Government-branded documentation available on [18F
 Pages](https://pages.18f.gov/). It's structured like an 18F Guides guide,
-and it walks you through the process of creating and publishing an 18F Pages document based on
+and it walks you through the process of creating and publishing a guide based on
 the same theme.
 
 The template is derived from [CFPB/DOCter](https://github.com/CFPB/DOCter).
