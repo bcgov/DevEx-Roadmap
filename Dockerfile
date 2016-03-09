@@ -13,17 +13,17 @@ RUN apk update \
 
 ADD Gem* /guide/
 
-RUN adduser -S jekyll
-
-RUN chown -R jekyll:0 /guide && chmod -R 770 /guide
-
-USER jekyll
-
 WORKDIR /guide
 
 RUN bundler
 
 ADD . /guide
+
+RUN adduser -S jekyll
+
+RUN chown -R jekyll:0 /guide && chmod -R 770 /guide
+
+USER jekyll
 
 EXPOSE 4000
 
