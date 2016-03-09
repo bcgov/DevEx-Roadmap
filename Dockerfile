@@ -13,6 +13,12 @@ RUN apk update \
 
 ADD Gem* /guide/
 
+RUN useradd jekyll
+
+RUN chown -R jekyll:0 /guide && chmod -R 770 /guide
+
+USER jekyll
+
 WORKDIR /guide
 
 RUN bundler
