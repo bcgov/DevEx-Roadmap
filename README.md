@@ -1,4 +1,4 @@
-## BC Agile Guides Template
+## BC Agile Guide Template
 
 This is a skeleton repo containing the
 [CFPB/DOCter](https://github.com/CFPB/DOCter)-based
