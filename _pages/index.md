@@ -2,9 +2,7 @@
 permalink: /
 title: Getting Started
 ---
-Use the contents of this GitHub repository as a template to create [BC Agile Guides](http://pages.18f.gov/guides/)
-and other BC Government-branded documentation available on [18F
-Pages](https://pages.18f.gov/). It's structured like an 18F Guides guide,
+Use the contents of this GitHub repository as a template to create [BC Agile Guides](http://guides-template.pathfinder.gov.bc.ca/). It's structured like an [18F] (https://pages.18f.gov/) Guides guide,
 and it walks you through the process of creating and publishing a guide based on
 the same theme.
 
@@ -35,13 +33,13 @@ You may want to preview your guide as you are working on the content.  We provde
   {% endhighlight %}
  * type:
  {% highlight shell %}
- docker build --tag guide:latest --file Dockerfile-local
+ docker build --tag guide:latest --file Dockerfile-local ./
  {% endhighlight %}
  * then type:
  {% highlight shell %}
   docker run -p 4000:4000 -d -v $PWD:/guide --name guide guide:latest
   {% endhighlight %}
- * open your web browser to http://http://192.168.99.100:4000/ and you should see the latest version of your guide as it will appear when published.
+ * open your web browser to [http://192.168.99.100:4000/](http://192.168.99.100:4000/) and you should see the latest version of your guide as it will appear when published.
   
 At this point, as you update content and want to see the results reflected in the preview site, you can do the following:
 
@@ -74,5 +72,5 @@ $ git push origin 18f-pages
 Follow the instructions in _Update the Config File_ to update your
 `_config.yml` accordingly. You may also need to consult the _GitHub Setup_ and
 _Post Your Guide_ chapters to ensure your guide is correctly published to
-`pages.18f.gov` and linked from the main [18F
-Guides](http://pages.18f.gov/guides/) site.
+`https://github.com/bcgov` and linked from the main [BC Agile
+Guides](http://guides-template.pathfinder.gov.bc.ca/) site.
