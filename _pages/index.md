@@ -9,18 +9,18 @@ the same theme.
 The template is derived from [CFPB/DOCter](https://github.com/CFPB/DOCter).
 It uses [Jekyll](http://jekyllrb.com/) as the rendering engine.
 
-### Create a new guide/document
+### Creating a New Guide
 
 To get started on a new guide (or other document based on this theme), 
-follow [the "Getting started" instructions in the 18F/guides-template GitHub
-repository](https://github.com/18F/guides-template/#getting-started) to create
+follow [the "Getting started" instructions in the bcgov/guides-template GitHub
+repository](https://github.com/bcgov/guides-template/#getting-started) to create
 a local clone of this template.
 
 Once you've created a clone, click the _Add a New Page_ entry in the table of
 contents to begin the rest of the steps.
 
 
-## View a guide locally
+## Viewing a Guide Locally
 
 You may want to preview your guide as you are working on the content.  We provde a pretty simple way to do this via [Docker](https://www.docker.com/) To get set up to preview your guide as you are working on it, follow the steps below:
  
@@ -43,10 +43,10 @@ You may want to preview your guide as you are working on the content.  We provde
   
 At this point, as you update content and want to see the results reflected in the preview site, you can do the following:
 
-* select your container from the Container list on the right hand column of the Kitematic app (it will be labelled "guide"). <img src="{{site.baseurl}}/images/kitematic-container-list.png" alt="Kitematic Container List">
-* click the "Restart" button in the Kitematic app. (We'd prefer to have published content auto-updated without restarting, but haven't quite nailed that yet.) <img src="{{site.baseurl}}/images/kitematic-restart-button.png" alt="Kitematic Restart Button">
+1. Select your container from the container list on the right hand column of the Kitematic app (it will be labelled "guide"). <img src="{{site.baseurl}}/images/kitematic-container-list.png" alt="Kitematic Container List">
+2. Click the "Restart" button in the Kitematic app. (We'd prefer to have published content auto-updated without restarting, but haven't quite nailed that yet.) <img src="{{site.baseurl}}/images/kitematic-restart-button.png" alt="Kitematic Restart Button">
 
-### Update an existing guide/document
+### Updating an Existing Guide/Document
 
 __Note: You need to do this only if your existing guide or document is not already
 using the `guides_style_18f` gem or if it does not have an `18f-pages`
