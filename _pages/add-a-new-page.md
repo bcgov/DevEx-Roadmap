@@ -1,7 +1,7 @@
 ---
-title: Add a new page
+title: Add a New Page
 ---
-To add new pages, create a 
+To add a new page, create a 
 [Markdown](http://daringfireball.net/projects/markdown/syntax) file in the
 `_pages/` directory of the repository. For example, the Markdown text for
 this page is
@@ -45,7 +45,7 @@ If you add your own custom `permalink:`, **the '`/`' at the end of the
 `{{ page.url }}index.html`. Without it, the page generates as
 `/{{ page.url | remove_first: '/' | replace:'/','.'}}html`.
 
-### Setting the title in the navigation bar
+### Setting the Title in the Navigation Bar
 
 By default, the title appearing in the navigation bar will match the `title:`
 specified in the front matter of the page. If you'd like to specify a
@@ -59,7 +59,7 @@ navtitle: Polonius's advice
 ---
 ```
 
-### Link to other pages within the guide
+### Linking to Other Pages Within the Guide
 
 Every link to another page _must_ be prefixed with
 `{% raw %}{{ site.baseurl }}{% endraw %}`. For example,
