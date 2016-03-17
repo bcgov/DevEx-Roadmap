@@ -28,7 +28,7 @@ expand_nav: true
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Introduction
+- text: Getting Started
   internal: true
 - text: Add a new page
   url: add-a-new-page/
