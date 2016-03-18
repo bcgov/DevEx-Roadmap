@@ -3,7 +3,7 @@
 title: About This Guide
 ---
 
-This is the *IT Product and Service Design Guide*; a key deliverable, or product, produced under the IT Product and Service Design Initiative being executed by Technology Solutions (TS) within the Office of the Chief Information Officer (OCIO) at the Ministry of Technology, Innovation and Citizens’ Services (MTICS).
+This guide is a key deliverable, or product, produced under the IT Product and Service Design Initiative being executed by Technology Solutions (TS) within the Office of the Chief Information Officer (OCIO) at the Ministry of Technology, Innovation and Citizens’ Services (MTICS).
 
 The purpose of this initiative is to enhance and build upon the previous good work already completed by TS staff. It ensures successful adoption across TS through effective change leadership, communications and engagement.
 
