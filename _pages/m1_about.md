@@ -1,4 +1,3 @@
-
 ---
 title: About This Guide
 ---
@@ -25,11 +24,11 @@ This guide will provide the means to change behaviour, leading to sustained oper
 
 ##Context
 
-<img src="{%raw%}{{site.baseurl}}{%endraw%}/images/3Qs_BlueRectangle.png" alt="Blue Rectangle Image"> Driving this initiative is the shared recognition that we need to better understand, anticipate, and manage ministry and broader public sector demand for new IT products and services. We need to align investment decisions with business value to ensure investments are made in the right products and services, and to ensure that we have the right resources to sustain an appropriate portfolio of IT projects. We must change our own product and service delivery behaviour via the adoption of an enhanced-yet-simplified IT product and service design process that crosses all TS service lines. Overall, this more integrated approach aims to create business value for our clients, while reducing complexity and delivering excellent customer service.
+<img src="{{site.baseurl}}/images/3Qs_BlueRectangle.png" alt="Blue Rectangle Image"> Driving this initiative is the shared recognition that we need to better understand, anticipate, and manage ministry and broader public sector demand for new IT products and services. We need to align investment decisions with business value to ensure investments are made in the right products and services, and to ensure that we have the right resources to sustain an appropriate portfolio of IT projects. We must change our own product and service delivery behaviour via the adoption of an enhanced-yet-simplified IT product and service design process that crosses all TS service lines. Overall, this more integrated approach aims to create business value for our clients, while reducing complexity and delivering excellent customer service.
 
 In addition to the need for an enhanced IT product and service process, TS requires the introduction of both behavioural governance and structural governance, in an manner that is integrated with the overall process. Governance cannot be a standalone feature – it must be embedded within the process to ensure desired behaviours are reinforced and outcomes are achieved.
 
-<img src="{%raw%}{{site.baseurl}}{%endraw%}/images/Desireable_BlueRectangle.png" alt="Desireable_BlueRectangle image">We are using an agile approach wherein iterative versions of this guide will be developed during two-week sprints, allowing us to “fail fast” and turn around quick improvements at a lower total cost. Our agile approach values individuals and interactions over tools and processes, and emphasizes collaboration with our customers.
+<img src="{{site.baseurl}}/images/Desireable_BlueRectangle.png" alt="Desireable_BlueRectangle image">We are using an agile approach wherein iterative versions of this guide will be developed during two-week sprints, allowing us to “fail fast” and turn around quick improvements at a lower total cost. Our agile approach values individuals and interactions over tools and processes, and emphasizes collaboration with our customers.
 
 #Audience
 

@@ -27,35 +27,6 @@ expand_nav: true
 
 # Navigation
 # List links that should appear in the site sidebar here
-Update the config file
-Work your way through these steps to update the _config.yml file — this configures the 18F style template for your specific guide:
-
-Set the guide name.
-Set the exclude: entries.
-Register pages in the navigation bar.
-Update the repository list.
-Optional: Set the back_link: property.
-Optional: Update google_analytics_ua:.
-Set the guide name
-
-The name: property appears as the guide's overall title. For example:
-
-name: IT Product and Service Design Guide
-Set the exclude: entries
-
-Make sure the exclude: list contains at least the following files, and add any other files you might have added that shouldn't appear in the generated _site directory:
-
-exclude:
-- CONTRIBUTING.md
-- Gemfile
-- Gemfile.lock
-- LICENSE.md
-- README.md
-- go
-- vendor
-Register pages in the navigation bar
-
-The navigation: list generates the table of contents. For example, the navigation: section of this guide contains:
 
 navigation:
 - text: About This Guide
@@ -64,18 +35,18 @@ navigation:
 - text: The Problem
   url: m1_theproblem/
   internal: true
-  #- text: The Opportunity
-  #url: m1_theopportunity/
-  #internal: true
-#- text: The Solution
-#  url: m1_thesolution/
-#  internal: true
-#- text: The Maturity Model
-#  url: m1_maturitymodel/
-#  internal: true
-#- text: The Design Process Map
-#  url: m1_processmap/
-#  internal: true
+- text: The Opportunity
+  url: m1_theopportunity/
+  internal: true
+- text: The Solution
+  url: m1_thesolution/
+  internal: true
+- text: The Maturity Model
+  url: m1_maturitymodel/
+  internal: true
+- text: The Design Process Map
+  url: m1_processmap/
+  internal: true
   
 repos:
 - name: Guides Template

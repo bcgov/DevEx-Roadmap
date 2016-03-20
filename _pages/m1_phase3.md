@@ -29,7 +29,7 @@ This stage begins when there is agreement between the business partner and the c
 
 * Exit strategy or closure
 
-* Information for service catalogue and uCMDB
+* Information for service catalogue and Universal Configuration Management Database (UCMDb)
 
 ####*Process:*
 
