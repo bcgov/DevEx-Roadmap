@@ -2,7 +2,7 @@
 title: Our Multi-Modal Governance Play Card
 ---
 
-With the [guiding principles](../pages/m1_principles) in-hand, decision-makers participating within the Investment Board, the TS Investment Working Group, the emerging TS Portfolio Management Board and the under-development TS Architecture Review Board will have the customer-focus lens they require to:
+With the [guiding principles]({{ site.baseurl }}/m1_principles/) in-hand, decision-makers participating within the Investment Board, the TS Investment Working Group, the emerging TS Portfolio Management Board and the under-development TS Architecture Review Board will have the customer-focus lens they require to:
 
 * Base their decisions related to IT product and service design and development on the needs and expectations of those who TS serves, and with whom it partners and works
 

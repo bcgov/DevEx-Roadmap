@@ -44,14 +44,14 @@ At this point in the process it is important to identify a person who will champ
 > Participants include: central coordinator/the individual who initiated the request and may include: 
 
 	* Technical resources from identified Service Delivery Units (SDUs)
-	* Client Services
+	* Client services
 	* The eventual TS owner of the product or service (e.g. Service Management Branch)
 
 The coordinator works with the requestor to:
 
 1.  Define the overall objective of the IT product/service so that there is a clear picture of the business need being met.
 
-2.  Validate alignment with overall Ministry and Government strategic direction.
+2.  Validate alignment with overall ministry and government strategic direction.
 
 3.  Determine whether or not this is an achievable offering.
 
@@ -59,7 +59,7 @@ The coordinator assesses if other SDUs should be engaged to review the requireme
 
 > **Checkpoint: Sufficient resource commitment to proceed - validate and pivot/exit**
 >
-> **Re-ask Behavioural Governance questions in Figure 1 and in Section 14**
+> **[Re-ask behavioural governance questions]({{ site.baseurl }}/m1_maturitymodel.md/)**
 
 The team then works to develop a high-level proof of concept. This should take the form of a deliverable that allows the client to properly assess whether or not the solution will address the requirements. Examples of this are:
 
@@ -71,9 +71,9 @@ The team then works to develop a high-level proof of concept. This should take t
 
 * Creation of a new IT product with simple-base functionality
 
-> **Check point: At each iteration confirm whether or not the proof of concept identifies a workable solution. Validate and pivot/exit**
+> **Check point: At each iteration confirm whether or not the PoC identifies a workable solution. Validate and pivot/exit**
 >
-> **Re-ask Behavioural Governance questions in Figure 1 and in Section 14**
+> **[Re-ask behavioural governance questions]({{ site.baseurl }}/m1_maturitymodel.md/)**
 
 Individual SDUs determine the logistical implications for:
 
