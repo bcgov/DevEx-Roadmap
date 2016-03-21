@@ -46,48 +46,7 @@ navigation:
 - text: The Design Process Map
   url: m1_designprocessmap/
   internal: true
-  children:
-  - text: Phase 1: Initiation
-    url: md_phase1/
-    internal: true
-    children:
- # - text: Phase 2: Early Design & Coordination
-  #  url: md_phase2/
-   # internal: true
-    #children:
-  #- text: Phase 3: Design & Development
-   # url: md_phase3/
-    #internal: true
-  #- text: Phase 4: Transition
-   # url: md_phase4/
-    #internal: true
-#- text: Behavoural & Structural Governance
- # url: m1_governance/
-  #internal: true
-#- text: How & When to Use the Process Map
- # url: m1_processmap/
-  #internal: true
-#- text: Governance
- # url: m1_govapproach/
-  #internal: true
-  #children:
-  #- text: Assumptioms
-   # url: md_assumptions/
-    #internal: true
-    #children:
-  #- text: Our Multi_Modal Governance Playcard
-   # url: md_playcard/
-    #internal: true
-     #children:
-  #- text: Guiding Principles
-   # url: md_principles/
-    #internal: true
-#- text: Communication, Engagement & Adoption
- # url: m1_success_defined/
-  #internal: true
-  #children:
-  #playcard
-  #principles
+ 
 
 repos:
 - name: Guides Template
