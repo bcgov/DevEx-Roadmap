@@ -22,7 +22,7 @@ The enhanced IT Product and Service Design Process Map is shown in  Figure 6. Th
 
 #####Figure 6: IT Product and Service Design Process Map
 
-<img src="{%raw%}{{site.baseurl}}{%endraw%}/images/ProcessMap.png" alt="DesignProcessMap image">
+<img src="{{site.baseurl}}/images/ProcessMap.png" alt="DesignProcessMap image">
 
 The map is divided into four integrated and connected phases. All four phases are guided by behavioural governance principles and supported by structural governance through Technology Solutions Investment Board (TSIB), Portfolio Management Board (PMB) and Architecture Review Board (ARB). A description of each phase is presented below.
 

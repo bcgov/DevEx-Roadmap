@@ -19,7 +19,9 @@ Through this lens, our staff have come to value:
 When we make decisions and approve investments with respect to the design, development and enhancement of our IT products and services we constantly ask ourselves these defining questions:
 
 1. Should we invest in this? 
+
 2. Do we have the resources? 
+
 3. Are we building it right?
 
 > *This means never taking on the design or development of an IT product or service at TS unless we are able to do it the right way, for the right reasons, and with the right people and the right tools and processes.*

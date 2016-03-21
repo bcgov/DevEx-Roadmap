@@ -36,22 +36,22 @@ Figure 1 shows a graphical depiction of the maturity model. Subsequent figures p
 
 #####Figure 1: Proposed Maturity Model for IT Product and Service Design
 
-<img src="{%raw%}{{site.baseurl}}{%endraw%}/images/ProposedMaturityModel0.png" alt="ProposedMaturityModel image">
+<img src="{{site.baseurl}}/images/ProposedMaturityModel0.png" alt="ProposedMaturityModel image">
 
 #####Figure 2 : Level 1 Maturity Considerations
 
-<img src="{%raw%}{{site.baseurl}}{%endraw%}/images/ProposedMaturityModel0.png" alt="ProposedMaturityModel image">
+<img src="{{site.baseurl}}/images/ProposedMaturityModel0.png" alt="ProposedMaturityModel image">
 
 #####Figure 3 : Level 2 Maturity Considerations
 
-<img src="{%raw%}{{site.baseurl}}{%endraw%}/images/Maturity_Level2.png" alt="MaturityModel_Level2 image">
+<img src="{{site.baseurl}}/images/Maturity_Level2.png" alt="MaturityModel_Level2 image">
 
 #####Figure 4: Level 3 Maturity Considerations
 
-<img src="{%raw%}{{site.baseurl}}{%endraw%}/images/Maturity_Level3.png" alt="MaturityModel_Level3 image">
+<img src="{{site.baseurl}}/images/Maturity_Level3.png" alt="MaturityModel_Level3 image">
 
 #####Figure : Level 4 Maturity Considerations
 
-<img src="{%raw%}{{site.baseurl}}{%endraw%}/images/Maturity_Level4.png" alt="MaturityModel_Level4 image">
+<img src="{{site.baseurl}}/images/Maturity_Level4.png" alt="MaturityModel_Level4 image">
 
 

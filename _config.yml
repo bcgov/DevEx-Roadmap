@@ -30,7 +30,6 @@ expand_nav: true
 
 navigation:
 - text: About This Guide
-  url: m1_about/
   internal: true
 - text: The Problem
   url: m1_theproblem/

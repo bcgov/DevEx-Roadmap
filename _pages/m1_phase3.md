@@ -3,7 +3,7 @@ title: Phase 3
 ---
 ###Design & Development
 
-<img src="{%raw%}{{site.baseurl}}{%endraw%}/images/Process_DesignAndDevelopment.png" alt="Design and Development image">
+<img src="{{site.baseurl}}/images/Process_DesignAndDevelopment.png" alt="Design and Development">
 
 This stage begins when there is agreement between the business partner and the central coordinator (on behalf of the team) that the proof of concept has captured the requirements. Approval to go forward must be given by the sponsor, and validated by the business partner.
 

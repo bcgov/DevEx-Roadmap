@@ -28,4 +28,4 @@ The change management approach for this initiative is based on the Stages of Cul
 
 Figure : Stages of Cultural Renewal
 
-<img src="{%raw%}{{site.baseurl}}{%endraw%}/images/StagesOfCulturalRenewal.png" alt="Level1 Definitions">
+<img src="{{site.baseurl}}/images/StagesOfCulturalRenewal.png" alt="Level1 Definitions">

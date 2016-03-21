@@ -8,7 +8,7 @@ For the purposes of this guide, structural governance is defined as the governan
 
 Figure : Behavioural and Structural Governance
 
-<img src="{%raw%}{{site.baseurl}}{%endraw%}/images/Process_BehaviourAndStructural.png" alt="Governance image">
+<img src="{{site.baseurl}}/images/Process_BehaviourAndStructural.png" alt="Governance image">
 
 Detailed information on governance principles, assumptions, and key questions may be found in Section 14.
 
@@ -18,22 +18,22 @@ The four phases of the IT product and service design and development process can
 
 Figure : Level 1 Processes
 
-<img src="{%raw%}{{site.baseurl}}{%endraw%}/images/Processes_Level1.png" alt="Level1 Process">
+<img src="{{site.baseurl}}/images/Processes_Level1.png" alt="Level1 Process">
 
 Table : Level 1 Process Definitions
 
-<img src="{%raw%}{{site.baseurl}}{%endraw%}/images/Processes_Level1Definitions.png" alt="Level1 Definitions">
+<img src="{{site.baseurl}}/images/Processes_Level1Definitions.png" alt="Level1 Definitions">
 
 ##Level 2 Process Descriptions
 
 Level 2 (L2) processes have also been defined and are explained in greater detail in Table 2 on the following pages.
 
 Table : Level 2 Process Definitions
-<img src="{%raw%}{{site.baseurl}}{%endraw%}/images/Processes_Level2Definitions1.png" alt="Level1 Definitions">
-<img src="{%raw%}{{site.baseurl}}{%endraw%}/images/Processes_Level2Definitions2.png" alt="Level1 Definitions">
-<img src="{%raw%}{{site.baseurl}}{%endraw%}/images/Processes_Level2Definitions3.png" alt="Level1 Definitions">
-<img src="{%raw%}{{site.baseurl}}{%endraw%}/images/Processes_Level2Definitions4.png" alt="Level1 Definitions">
-<img src="{%raw%}{{site.baseurl}}{%endraw%}/images/Processes_Level2Definitions5.png" alt="Level1 Definitions">
-<img src="{%raw%}{{site.baseurl}}{%endraw%}/images/Processes_Level2Definitions6.png" alt="Level1 Definitions">
+<img src="{{site.baseurl}}/images/Processes_Level2Definitions1.png" alt="Level1 Definitions">
+<img src="{{site.baseurl}}/images/Processes_Level2Definitions2.png" alt="Level1 Definitions">
+<img src="{{site.baseurl}}/images/Processes_Level2Definitions3.png" alt="Level1 Definitions">
+<img src="{{site.baseurl}}/images/Processes_Level2Definitions4.png" alt="Level1 Definitions">
+<img src="{{site.baseurl}}/images/Processes_Level2Definitions5.png" alt="Level1 Definitions">
+<img src="{{site.baseurl}}/images/Processes_Level2Definitions6.png" alt="Level1 Definitions">
 
 

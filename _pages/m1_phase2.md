@@ -3,7 +3,7 @@ title: Phase 2
 ---
 ###Early Design & Coordination
 
-<img src="{%raw%}{{site.baseurl}}{%endraw%}/images/Process_EarlyDesign.png" alt="EarlyDesign image">
+<img src="{{site.baseurl}}/images/Process_EarlyDesign.png" alt="EarlyDesign image">
 
 This phase begins when the business partner agrees with the documented understanding of the requirements. At this stage the team is formed, the concept is reviewed and initial Proof of Concepts (PoC) are developed. Validation of the solution is performed by the person or client who requested the service or product.
 

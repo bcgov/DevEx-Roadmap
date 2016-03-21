@@ -3,7 +3,7 @@ title: Phase 1
 ---
 ###Initiation
 
-<img src="{%raw%}{{site.baseurl}}{%endraw%}/images/Process_Initiation.png" alt="ProcessInitiation image">
+<img src="{{site.baseurl}}/images/Process_Initiation.png" alt="Process Initiation">
 
 This phase begins with a request for a new or modified technology product or service. It may come from any one of a number of areas. Some examples are:
 
