@@ -48,19 +48,19 @@ navigation:
   internal: true
   children: 
   - text: Phase 1
-    url: m1_designprocessmap/m1_phase1
+    url: m1_designprocessmap/
     internal: true
   children: 
   - text: Phase 2
-    url: m1_designprocessmap/m1_phase2
+    url: m1_designprocessmap/
     internal: true
   children: 
   - text: Phase 3
-    url: m1_designprocessmap/m1_phase3
+    url: m1_designprocessmap/
     internal: true
   children: 
   - text: Phase 4
-    url: m1_designprocessmap/m1_phase4
+    url: m1_designprocessmap/
     internal: true
   
 repos:
