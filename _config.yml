@@ -46,7 +46,10 @@ navigation:
 - text: The Design Process Map
   url: m1_designprocessmap/
   internal: true
-  children: m1_designprocessmap/
+  children: 
+  - text: Phase 1
+    url: m1_designprocessmap/
+    internal: true
   
 repos:
 - name: Guides Template
