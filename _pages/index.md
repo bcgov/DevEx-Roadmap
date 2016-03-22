@@ -3,9 +3,10 @@ permalink: /
 title: About This Guide
 ---
 
-This guide is a key deliverable, or product, produced under the IT Product and Service Design Initiative being executed by Technology Solutions (TS) within the Office of the Chief Information Officer (OCIO) at the Ministry of Technology, Innovation and Citizens’ Services (MTICS).
+This guide is a key deliverable produced under the IT Product and Service Design Initiative being executed by Technology Solutions (TS) within the Office of the Chief Information Officer (OCIO) at the Ministry of Technology, Innovation and Citizens’ Services (MTICS).
 
-The purpose of this initiative is to enhance and build upon the previous good work already completed by TS staff. It ensures successful adoption across TS through effective change leadership, communications and engagement.
+##Purpose
+The purpose of this initiative is to enhance and build upon the previous good work already completed by TS staff in this space (for example, previous processes developed by Deloitte and TS Policy & Development). It ensures successful adoption across TS through effective change leadership, communications and engagement.
 
 Included in this guide are:
 
@@ -25,30 +26,30 @@ This guide will provide the means to change behaviour, leading to sustained oper
 
 ##Context
 
-<img src="{{site.baseurl}}/images/3Qs_BlueRectangle.png" alt="Blue Rectangle Image"> 
+<img src="{{site.baseurl}}/images/3Qs_BlueRectangle.png" alt="Blue Rectangle"> 
 
 Driving this initiative is the shared recognition that we need to better understand, anticipate, and manage ministry and broader public sector demand for new IT products and services. We need to align investment decisions with business value to ensure investments are made in the right products and services, and to ensure that we have the right resources to sustain an appropriate portfolio of IT projects. We must change our own product and service delivery behaviour via the adoption of an enhanced-yet-simplified IT product and service design process that crosses all TS service lines. Overall, this more integrated approach aims to create business value for our clients, while reducing complexity and delivering excellent customer service.
 
 In addition to the need for an enhanced IT product and service process, TS requires the introduction of both behavioural governance and structural governance, in an manner that is integrated with the overall process. Governance cannot be a standalone feature – it must be embedded within the process to ensure desired behaviours are reinforced and outcomes are achieved.
 
-<img src="{{site.baseurl}}/images/Desireable_BlueRectangle.png" alt="Desireable_BlueRectangle image">
+<img src="{{site.baseurl}}/images/Desireable_BlueRectangle.png" alt="Desireable_BlueRectangle">
 
 We are using an agile approach wherein iterative versions of this guide will be developed during two-week sprints, allowing us to “fail fast” and turn around quick improvements at a lower total cost. Our agile approach values individuals and interactions over tools and processes, and emphasizes collaboration with our customers.
 
-#Audience
+#Target Audience
 
-Users of this guide, and therefore target audiences of it, include any TS executive or TS staff member directly or indirectly involved in the ongoing design and development of IT products and services.
+Users of this guide include any TS executive or TS staff member directly or indirectly involved in the ongoing design and development of IT products and services.
 
 Additional stakeholders include:
 
-* Ministry and Broader Public Service (BPS) Partners
+* Ministry and broader public service partners
 * The TS Executive Leadership Team
 * Client Relations staff
 * Service Delivery Units staff
-* Other OCIO bodies (Security, Finance, others)
+* Other OCIO bodies (security, finance, others)
 * Project Portfolio Management
 * Service Management Branch
-* The General Public
+* The general public
 
 ##Assumptions
 

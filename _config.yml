@@ -46,12 +46,12 @@ navigation:
 - text: The Design Process Map
   url: m1_designprocessmap/
   internal: true
- 
-
+  children: m1_designprocessmap/
+  
 repos:
 - name: Guides Template
   description: Main repository
-  url: https://github.com/bcgov/guides-template
+  url: https://github.com/bcgov
 
 back_link:
   url: "https://github.com/bcgov"
