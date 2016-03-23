@@ -1,6 +1,7 @@
 ---
-Title: Behavioural and Structural Governance
+title: Behavioural and Structural Governance
 ---
+-----------------------------------------------------------------
 
 A critical consideration of the enhanced IT product and service design and development process is ensuring that governance is embedded within it. Governance will not be effective unless it is integrated with all four stages of the design process.
 

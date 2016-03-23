@@ -6,10 +6,10 @@ title: The Design Process Map
 
 Through collaboration within TS and with external stakeholders, it has been determined that the enhanced approach should follow four interconnected phases:
 
-* Initiation
-* Early design and coordination
-* Design and development
-* Transition
+* Phase 1: Initiation
+* Phase 2: Early design and coordination
+* Phase 3: Design and development
+* Phase 4: Transition
 
 These phases should be guided by two dimensions of governance:
 
