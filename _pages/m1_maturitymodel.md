@@ -50,7 +50,7 @@ Figure 1 shows a graphical depiction of the maturity model. Subsequent figures p
 
 <img src="{{site.baseurl}}/images/Maturity_Level3.png" alt="MaturityModel_Level3 image">
 
-#####Figure : Level 4 Maturity Considerations
+#####Figure 5: Level 4 Maturity Considerations
 
 <img src="{{site.baseurl}}/images/Maturity_Level4.png" alt="MaturityModel_Level4 image">
 
