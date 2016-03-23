@@ -1,12 +1,12 @@
 ---
 title: The Solution
 ---
-
+-----------------------------------------------------------------
 To address current-state challenges and to move towards the desired future state, the IT Product and Service Design Initiative is iteratively developing the following components:
 
 * A maturity model to demonstrate a progression of desirable behaviours for IT product and service design and development across TS
 
-* An IT Product and Service Design process map that visually depicts how new products and services will be designed and developed using a range of traditional and/or multi-modal approaches
+* A design process map that visually depicts how new products and services will be designed and developed using a range of traditional and/or multi-modal approaches
 
 * Simple explanations of each step in the process, including inputs, outputs and checkpoints
 

@@ -1,7 +1,9 @@
 ---
 title: The Opportunity
 ---
-In the very near future we will have the tools, frameworks and staff culture required to:
+-----------------------------------------------------------------
+
+In the near future we will have the tools, frameworks and staff culture required to:
 
 * Set smart strategic direction and better serve highest priority client needs
 

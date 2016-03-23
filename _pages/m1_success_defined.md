@@ -1,7 +1,7 @@
 ---
 title: Communication, Engagement and Adoption
 ---
-
+------------------------------------------------------------------
 Success for this initiative means:
 
 * Our executive sponsors remained committed at all times to its execution
@@ -26,6 +26,6 @@ The success of the journey of change for this initiative will be critically depe
 
 The change management approach for this initiative is based on the Stages of Cultural Renewal model shown in Figure 9.
 
-Figure : Stages of Cultural Renewal
+**Figure 9 : Stages of Cultural Renewal**
 
 <img src="{{site.baseurl}}/images/StagesOfCulturalRenewal.png" alt="Level1 Definitions">

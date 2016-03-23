@@ -48,26 +48,26 @@ navigation:
   internal: true
   children: 
   - text: Phase 1
-    url: m1_designprocessmap/m1_phase1
+    url: m1_phase1
     internal: true
   - text: Phase 2
-    url: m1_designprocessmap/m1_phase2
+    url: m1_phase2
     internal: true
   - text: Phase 3
-    url: m1_designprocessmap/m1_phase3
+    url: m1_phase3
     internal: true
   - text: Phase 4
-    url: m1_designprocessmap/m1_phase4
+    url: m1_phase4
     internal: true
 - text: Behavioural & Structural Governance
   url: m1_governance/
   internal: true
   children: 
   - text: Level 1 Process Descriptions
-    url: m1_governance/m1_level1
+    url: m1_level1
     internal: true
   - text: Level 2 Process Descriptions
-    url: m1_governance/m1_level2
+    url: m1_level2
     internal: true
 - text: How & When to Use the Process Map
   url: m1_processmap
@@ -77,13 +77,13 @@ navigation:
   internal: true
   children:
   - text: Assumptions
-    url: m1_govapproach/m1_gov_assumptions
+    url: m1_gov_assumptions
     internal: true
   - text: Multi-Modal Play Card
-    url: m1_govapproach/m1_play_card
+    url: m1_play_card
     internal: true
   - text: Guiding Principles
-    url: m1_govapproach/m1_principles
+    url: m1_principles
     internal: true
 - text: Communication, Engagement & Adoption
   url: m1_success_defined

@@ -2,7 +2,7 @@
 permalink: /
 title: About This Guide
 ---
-
+-----------------------------------------------------------------
 This guide is a key deliverable produced under the IT Product and Service Design Initiative being executed by Technology Solutions (TS) within the Office of the Chief Information Officer (OCIO) at the Ministry of Technology, Innovation and Citizens’ Services (MTICS).
 
 ##Purpose

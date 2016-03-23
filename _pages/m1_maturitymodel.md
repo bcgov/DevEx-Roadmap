@@ -1,7 +1,7 @@
 ---
 title: The Maturity Model 
 ---
-
+------------------------------------------------------------------
 A maturity model has been developed to support the desired progression of behaviours during the adoption of the enhanced IT product and service design and development process.
 
 The model includes four levels of progression:
