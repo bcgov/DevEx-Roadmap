@@ -62,7 +62,7 @@ When we make decisions and approve investments with respect to the design, devel
 
 > > *This means giving competent staff clarity of design purpose, minimum specifications, and the freedom to figure it all out on their own through trial and error, free of judgement and micromanagement.*
 
-`13.  Are we reflecting frequently, and at regular intervals, on how our development teams can become more effective and adjust its behaviour accordingly?
+`13`.  Are we reflecting frequently, and at regular intervals, on how our development teams can become more effective and adjust its behaviour accordingly?
 
 > > *This means constant judgement-free reflection on what could have been done differently or better.*
 
