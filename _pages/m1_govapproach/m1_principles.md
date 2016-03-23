@@ -44,7 +44,7 @@ When we make decisions and approve investments with respect to the design, devel
 
 `8`. Will we design, develop and enhance products and services around highly motivated staff? Will we give them the tools, the data, the funding, the architectures, the risk tolerance, the insights, and the leadership supports they require? Do we trust them to get the job done?**
 
-> > *This means equipping our own people with what they actually require to excel at customer success. *
+> > *This means equipping our own people with what they actually require to excel at customer success.*
 
 `9`. Are ‘working products and services’ our primary measure of success?
 
