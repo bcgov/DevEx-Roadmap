@@ -7,6 +7,7 @@ RUN apk update \
   && gem install nokogiri -- --use-system-libraries -N \
   && gem install jekyll -N \
   && gem install github-pages -N \
+  && gem install bundler -N \
   && apk del --purge ruby-dev \
                      libgcc gcc make libc-dev libffi-dev zlib-dev libxml2-dev libxslt-dev \
   && apk add ruby-json
