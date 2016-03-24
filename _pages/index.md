@@ -1,62 +1,76 @@
 ---
 permalink: /
-title: About This Guide
+title: Getting Started
 ---
------------------------------------------------------------------
-This guide is a key deliverable produced under the IT Product and Service Design Initiative being executed by Technology Solutions (TS) within the Office of the Chief Information Officer (OCIO) at the Ministry of Technology, Innovation and Citizens’ Services (MTICS).
+Use the contents of this GitHub repository as a template to create [BC Agile Guides](http://guides-template.pathfinder.gov.bc.ca/). It's structured like an [18F] (https://pages.18f.gov/) Guides guide,
+and it walks you through the process of creating and publishing a guide based on
+the same theme.
 
-##Purpose
-The purpose of this initiative is to enhance and build upon the previous good work already completed by TS staff in this space (for example, previous processes developed by Deloitte and TS Policy & Development). It ensures successful adoption across TS through effective change leadership, communications and engagement.
+The template is derived from [CFPB/DOCter](https://github.com/CFPB/DOCter).
+It uses [Jekyll](http://jekyllrb.com/) as the rendering engine.
 
-Included in this guide are:
+### Create a new guide/document
 
-* A maturity model to demonstrate a progression of desirable behaviours for IT product and service design and development across TS
+To get started on a new guide (or other document based on this theme), 
+follow [the "Getting started" instructions in the 18F/guides-template GitHub
+repository](https://github.com/18F/guides-template/#getting-started) to create
+a local clone of this template.
 
-* An IT Product and Service Design process map that visually depicts how new products and services will be designed and developed using a range of traditional and/or multi-modal approaches
+Once you've created a clone, click the _Add a New Page_ entry in the table of
+contents to begin the rest of the steps.
 
-* Simple explanations of each step in the process, including inputs, outputs and checkpoints
 
-* A governance framework to guide new behaviour and establish key roles and responsibilities
+## View a guide locally
 
-* Recommendations on how to communicate the enhanced IT Product and Service Design process and encourage sustainable adoption across TS
+You may want to preview your guide as you are working on the content.  We provde a pretty simple way to do this via [Docker](https://www.docker.com/) To get set up to preview your guide as you are working on it, follow the steps below:
+ 
+ * install [Kitematic](https://kitematic.com/)
+ * launch Kitematic
+ * click the "DOCKER CLI" button at the bottom left of the Kitematic window <img src="{{site.baseurl}}/images/kitematic-docker-cli.png" alt="Kitematic Docker CLI">
+ * type:
+ {% highlight shell %}
+  cd <location of your guide repo>
+  {% endhighlight %}
+ * type:
+ {% highlight shell %}
+ docker build --tag guide:latest --file Dockerfile-local ./
+ {% endhighlight %}
+ * then type:
+ {% highlight shell %}
+  docker run -p 4000:4000 -d -v $PWD:/guide --name guide guide:latest
+  {% endhighlight %}
+ * open your web browser to [http://192.168.99.100:4000/](http://192.168.99.100:4000/) and you should see the latest version of your guide as it will appear when published.
+  
+At this point, as you update content and want to see the results reflected in the preview site, you can do the following:
 
-* Recommendations on how to automate the IT product and service design process in the future
+* select your container from the Container list on the right hand column of the Kitematic app (it will be labelled "guide"). <img src="{{site.baseurl}}/images/kitematic-container-list.png" alt="Kitematic Container List">
+* click the "Restart" button in the Kitematic app. (We'd prefer to have published content auto-updated without restarting, but haven't quite nailed that yet.) <img src="{{site.baseurl}}/images/kitematic-restart-button.png" alt="Kitematic Restart Button">
 
-This guide will provide the means to change behaviour, leading to sustained operationalization and enhanced IT product and service design process for TS. It will also serve as a communication tool to increase awareness and adoption of the enhanced process.
+### Update an existing guide/document
 
-##Context
+__Note: You need to do this only if your existing guide or document is not already
+using the `guides_style_18f` gem or if it does not have an `18f-pages`
+branch.__
 
-<img src="{{site.baseurl}}/images/3Qs_BlueRectangle.png" alt="Blue Rectangle"> 
+Add the [`guides_style_18f` gem](https://github.com/18F/guides-style) to your
+guide's `Gemfile`, if it's not already present. You may also wish to copy the
+`./go` script from the template if your document doesn't already have one.
 
-Driving this initiative is the shared recognition that we need to better understand, anticipate, and manage ministry and broader public sector demand for new IT products and services. We need to align investment decisions with business value to ensure investments are made in the right products and services, and to ensure that we have the right resources to sustain an appropriate portfolio of IT projects. We must change our own product and service delivery behaviour via the adoption of an enhanced-yet-simplified IT product and service design process that crosses all TS service lines. Overall, this more integrated approach aims to create business value for our clients, while reducing complexity and delivering excellent customer service.
+To receive layout updates, as well as any new styles or scripts associated
+with them, you will need to run `./go update_theme`. Or — if you aren't using
+a `./go` script — you can run `bundle update --source guides_style_18f`
+manually.)
 
-In addition to the need for an enhanced IT product and service process, TS requires the introduction of both behavioural governance and structural governance, in an manner that is integrated with the overall process. Governance cannot be a standalone feature – it must be embedded within the process to ensure desired behaviours are reinforced and outcomes are achieved.
+If your repository already has a `gh-pages` branch, you can create an
+`18f-pages` branch from it by running these commands:
 
-<img src="{{site.baseurl}}/images/Desireable_BlueRectangle.png" alt="Desireable_BlueRectangle">
+```
+$ git checkout -b 18f-pages gh-pages
+$ git push origin 18f-pages
+```
 
-We are using an agile approach wherein iterative versions of this guide will be developed during two-week sprints, allowing us to “fail fast” and turn around quick improvements at a lower total cost. Our agile approach values individuals and interactions over tools and processes, and emphasizes collaboration with our customers.
-
-#Target Audience
-
-Users of this guide include any TS executive or TS staff member directly or indirectly involved in the ongoing design and development of IT products and services.
-
-Additional stakeholders include:
-
-* Ministry and broader public service partners
-* The TS Executive Leadership Team
-* Client Relations staff
-* Service Delivery Units staff
-* Other OCIO bodies (security, finance, others)
-* Project Portfolio Management
-* Service Management Branch
-* The general public
-
-##Assumptions
-
-Development of this guide was based on the following assumptions:
-
-* Reviewers have a working knowledge of the difference between, and complementary value of, traditional waterfall, agile and hybrid approaches to IT product and service design and development
-
-* Users are comfortable with an iterative approach to the constant improvement of its content as our understanding of the requirements evolves through frequent trial and error
-
-The guide is a living document that is updated regularly and informed by lessons learned along the way.
+Follow the instructions in _Update the Config File_ to update your
+`_config.yml` accordingly. You may also need to consult the _GitHub Setup_ and
+_Post Your Guide_ chapters to ensure your guide is correctly published to
+`https://github.com/bcgov` and linked from the main [BC Agile
+Guides](http://guides-template.pathfinder.gov.bc.ca/) site.
