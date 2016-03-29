@@ -18,12 +18,14 @@ sass:
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: 18F
-  url: https://18f.gsa.gov
+  name: Province of British Columbia
+  url: https://www.gov.bc.ca
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
-logourl: /assets/img/18f-logo.png
-logoalt: 18F logo
+logourl: /assets/img/bc_logo_transparent.png
+logoalt: BC logo
+
+repo_url: https://github.com/bcgov/guides-template
 
 # To expand all navigation bar entries by default, set this property to true:
 expand_nav: true
@@ -61,13 +63,13 @@ navigation:
   internal: true
 
 repos:
-- name: Guides Template
+- name: BC Guides Template
   description: Main repository
-  url: https://github.com/18F/guides-template
+  url: https://github.com/bcgov/guides-template
 
 back_link:
-  url: "https://pages.18f.gov/guides/"
-  text: Read more 18F Guides
+  url: "https://guides.pathfinder.gov.bc.ca/"
+  text: Read more BC Digital Guides
 
 google_analytics_ua: UA-48605964-19
 
@@ -80,7 +82,7 @@ defaults:
 - scope:
     path: ""
   values:
-    layout: "guides_style_18f_default"
+    layout: "bc_default"
 
 # Configuration for jekyll_pages_api_search plugin gem.
 jekyll_pages_api_search:
