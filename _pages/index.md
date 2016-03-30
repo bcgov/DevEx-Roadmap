@@ -12,8 +12,8 @@ It uses [Jekyll](http://jekyllrb.com/) as the rendering engine.
 ### Create a new guide/document
 
 To get started on a new guide (or other document based on this theme), 
-follow [the "Getting started" instructions in the 18F/guides-template GitHub
-repository](https://github.com/18F/guides-template/#getting-started) to create
+follow [the "Getting started" instructions in the bcgov/guides-template GitHub
+repository](https://github.com/bcgov/guides-template/#getting-started) to create
 a local clone of this template.
 
 Once you've created a clone, click the _Add a New Page_ entry in the table of
