@@ -5,17 +5,35 @@ This is a skeleton repo containing the
 [Jekyll](http://jekyllrb.com/) template for
 [BC Gov Guides](http://guides.pathfinder.govb.ca/).
 
-### Getting started
+### Getting started - Approach 1 - Only Requires git
  
-To create a new guide, where `MY-NEW-GUIDE` is the name
-of your new repository:
+To create a new guide, where `fancy-new-guide` is the name of your new repository:
 
+* create a new repo on GitHub. (Since we're prentending it's called 'fancy-new-guide' and it's in the bcgov organization, the repo's URL is https://github.com/bcgov/fancy-new-guide.git)
+
+
+```shell
+$ git clone --bare https://github.com/bcgov/guides-template.git
+
+$ cd guides-template.git
+$ git push --mirror https://github.com/bcgov/fancy-new-guide.git
+
+$ cd ..
+$ rm -rf guides-template.git
+
+$ git clone https://github.com/bcgov/fancy-new-guide.git
+```
+
+### Getting started - Approach 2 - Requires ruby install
+
+If you're ruby-savvy and you've followed "Approach 2" below, you can follow the instructions [here](http://guides-template.pathfinder.gov.bc.ca/github-setup/).
+ 
 ```shell
 $ git clone https://github.com/bcgov/guides-template.git MY-NEW-GUIDE
 $ cd MY-NEW-GUIDE
 ```
 
-You can then serve your guide locally using one of the approaches below.
+You can then serve your guide locally using one of the approaches below. 
  
 ### Serve your Guide Locally - Approach 1 - Docker/Kitematic
 
