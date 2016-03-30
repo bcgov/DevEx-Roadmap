@@ -25,7 +25,7 @@ You may want to preview your guide as you are working on the content.  We provid
  
  * install [Kitematic](https://kitematic.com/)
  * launch Kitematic
- * click the "DOCKER CLI" button at the bottom left of the Kitematic window ![Kitematic Docker CLI](/images/kitematic-docker-cli.png?raw=true "Kitematic window")
+ * click the "DOCKER CLI" button at the bottom left of the Kitematic window ![Kitematic Docker CLI](/images/kitematic-docker-cli.png?raw=true)
  * type:
  
  ```shell
@@ -48,8 +48,8 @@ You may want to preview your guide as you are working on the content.  We provid
   
 At this point, as you update content and want to see the results reflected in the preview site, you can do the following:
 
-* select your container from the Container list on the right hand column of the Kitematic app (it will be labelled "guide"). ![Kitematic Container List](/images/kitematic-container-list.png?raw=true "Kitematic window")
-* click the "Restart" button in the Kitematic app. (We'd prefer to have published content auto-updated without restarting, but haven't quite nailed that yet.) <img src="{{site.baseurl}}/images/kitematic-restart-button.png" alt="Kitematic Restart Button">
+* select your container from the Container list on the right hand column of the Kitematic app (it will be labelled "guide"). ![Kitematic Container List](/images/kitematic-container-list.png?raw=true)
+* click the "Restart" button in the Kitematic app. (We'd prefer to have published content auto-updated without restarting, but haven't quite nailed that yet.) ![Kitematic Restart Button](/images/kitematic-restart-button.png?raw=true)
 
 ### Serve your Guide Locally - Approach 2 - Local Ruby + Jekyll Install 
 
