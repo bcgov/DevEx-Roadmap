@@ -3,9 +3,55 @@
 This is a skeleton repo containing the
 [CFPB/DOCter](https://github.com/CFPB/DOCter)-based
 [Jekyll](http://jekyllrb.com/) template for
-[18F Guides](http://18f.github.io/guides/).
+[BC Gov Guides](http://guides.pathfinder.govb.ca/).
 
 ### Getting started
+ 
+To create a new guide, where `MY-NEW-GUIDE` is the name
+of your new repository:
+
+```shell
+$ git clone https://github.com/bcgov/guides-template.git MY-NEW-GUIDE
+$ cd MY-NEW-GUIDE
+```
+
+You can then serve your guide locally using one of the approaches below.
+ 
+### Serve your Guide Locally - Approach 1 - Docker/Kitematic
+
+#### Set up Kitematic
+
+You may want to preview your guide as you are working on the content.  We provide a pretty simple way to do this via [Docker](https://www.docker.com/) To get set up to preview your guide as you are working on it, follow the steps below:
+ 
+ * install [Kitematic](https://kitematic.com/)
+ * launch Kitematic
+ * click the "DOCKER CLI" button at the bottom left of the Kitematic window ![Kitematic Docker CLI](/images/kitematic-docker-cli.png?raw=true "Kitematic window")
+ * type:
+ 
+ ```shell
+  cd <location of your guide repo>
+  ```
+ 
+ * type:
+ 
+ ```shell
+ docker build --tag guide:latest --file Dockerfile-local ./
+ ```
+ 
+ * then type:
+ 
+ ```shell
+  docker run -p 4000:4000 -d -v $PWD:/guide --name guide guide:latest
+  ```
+  
+ * open your web browser to [http://192.168.99.100:4000/](http://192.168.99.100:4000/) and you should see the latest version of your guide as it will appear when published.
+  
+At this point, as you update content and want to see the results reflected in the preview site, you can do the following:
+
+* select your container from the Container list on the right hand column of the Kitematic app (it will be labelled "guide"). ![Kitematic Container List](/images/kitematic-container-list.png?raw=true "Kitematic window")
+* click the "Restart" button in the Kitematic app. (We'd prefer to have published content auto-updated without restarting, but haven't quite nailed that yet.) <img src="{{site.baseurl}}/images/kitematic-restart-button.png" alt="Kitematic Restart Button">
+
+### Serve your Guide Locally - Approach 2 - Local Ruby + Jekyll Install 
 
 #### Installing Ruby
 
@@ -50,13 +96,12 @@ version manager such as [rbenv](https://github.com/sstephenson/rbenv) or
 [rvm](https://rvm.io/) to help ensure that Ruby version upgrades don't mean
 all your [gems](https://rubygems.org/) will need to be rebuilt.
 
-#### Cloning and serving the Guides Template locally
+##### Serve the Guide locally
 
-To create a new guide and serve it locally, where `MY-NEW-GUIDE` is the name
+To serve serve the locally, where `MY-NEW-GUIDE` is the name
 of your new repository:
 
 ```shell
-$ git clone https://github.com/18F/guides-template.git MY-NEW-GUIDE
 $ cd MY-NEW-GUIDE
 $ ./go serve
 ```
@@ -66,18 +111,11 @@ The `./go` script will check that your Ruby version is supported, install the
 gems needed by the template, and launch a running instance on
 `http://localhost:4000/`.
 
-#### Follow the template instructions
+### Follow the template instructions
 
 The Guides Template (either [running locally](http://localhost:4000) or the
-[published version](https://pages.18f.gov/guides-template/)) will walk you
+[published version](http://guides-template.pathfinder.gov.bc.ca/)) will walk you
 through the rest of the steps to edit and publish your guide.
-
-### Staging version (for 18F team members)
-
-In addition to the `18f-pages` branch, you can create an `18f-pages-staging`
-branch and changes to that branch will be published to
-`https://pages-staging.18f.gov/MY-NEW-GUIDE`, which is identical to
-`https://pages.18f.gov/` but provides authenticated access.
 
 ### Public domain
 
