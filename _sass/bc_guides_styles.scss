@@ -21,6 +21,7 @@ h1, h2, h3, h4, h5 {
 }
 
 h2 {
+	margin-top: 2rem;
 	font-size: 2.4rem;
 }
 
@@ -30,7 +31,6 @@ h3 {
 
 p {
 	font-family: Myriad-Pro, Calibri, Arial, Sans Serif;
-	/* font-family: Oxygen, sans-serif; */
 	font-size: 1.8rem;
 	font-weight: 300;
 	color: #494949;
@@ -43,13 +43,17 @@ p a, p a:link, p a:visited {
 }
 
 hr {
-	margin-top: 1rem;
+	margin-top: 0.8rem;
 	color: #EEE;
 	border-style: solid;
 }
 
+aside {
+	margin-top: 0.5rem;
+}
 
-/* HEADER OVERRIDES
+
+/* HEADER OVERRIDES 
 ---------------------------------------- */
 header {
 	background-color: #036;
@@ -81,10 +85,14 @@ header div.wrap div.back-link {
 /* SEARCH BAR OVERRIDES
 ---------------------------------------- */
 div.search-interface input {
-	font-family: Oxygen, sans-serif;
 	font-size: 1.4rem;
 	background-color: #FFF;
 	border: none;
+}
+
+div.search-interface input:active,
+div.search-interface input:focus {
+	border:  none;
 }
 
 
@@ -112,7 +120,7 @@ footer a:visited {
 }
 
 
-/* SIDE NAVIGATION OVERRIDES
+/* SIDE NAVIGATION OVERRIDES 
 ---------------------------------------- */
 .sidebar-nav .sidebar-nav-active > a,
 .sidebar-nav a:hover {
@@ -124,12 +132,18 @@ footer a:visited {
 }
 
 .sidebar-nav li {
-	font-size: 1.6rem;
-	border-bottom: none;
+	font-size: 1.4rem;
+	border-bottom: 1px solid #EEE;
 }
 
 .sidebar-nav a,
 .sidebar-nav a:link,
 .sidebar-nav a:visited {
+	padding: 1rem;
 	color: #1a5a96;
+}
+
+.sidebar-nav .sidebar-nav-active > a,
+.sidebar-nav .sidebar-nav a:hover {
+	border-left: 4px solid #036;
 }
