@@ -65,10 +65,10 @@ navigation:
 repos:
 - name: BC Guides Template
   description: Main repository
-  url: https://github.com/bcgov/guides-template
+  url: http://github.com/bcgov/guides-template
 
 back_link:
-  url: "https://guides.pathfinder.gov.bc.ca/"
+  url: "http://guides.pathfinder.bcgov/"
   text: Read more BC Digital Guides
 
 google_analytics_ua: UA-48605964-19
