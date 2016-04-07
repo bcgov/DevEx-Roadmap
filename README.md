@@ -26,7 +26,7 @@ $ git clone https://github.com/bcgov/fancy-new-guide.git
 
 ### Getting started - Approach 2 - Requires ruby install
 
-If you're ruby-savvy and you've followed "Approach 2" below, you can follow the instructions [here](http://guides-template.pathfinder.gov.bc.ca/github-setup/).
+If you're ruby-savvy and you've followed "Approach 2" below, you can follow the instructions [here](http://guides-template.pathfinder.bcgov/github-setup/).
  
 ```shell
 $ git clone https://github.com/bcgov/guides-template.git MY-NEW-GUIDE
@@ -132,7 +132,7 @@ gems needed by the template, and launch a running instance on
 ### Follow the template instructions
 
 The Guides Template (either [running locally](http://localhost:4000) or the
-[published version](http://guides-template.pathfinder.gov.bc.ca/)) will walk you
+[published version](http://guides-template.pathfinder.bcgov/)) will walk you
 through the rest of the steps to edit and publish your guide.
 
 ### Public domain
