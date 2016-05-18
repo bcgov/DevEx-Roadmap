@@ -3,9 +3,7 @@ title: Civic Community Contributions
 ---
 
 Go and talk to people about the list of refined / new features 
-- Assignment mechanism 
-- Payment options 
-- Payment amounts 
+- Assignment mechanism
 - Notification service  
 - Badging/Points framework 
 - Automated tool chain 
