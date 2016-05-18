@@ -1,4 +1,7 @@
-##Plan	for	fiscal	year	2016/17
+---
+permalink: /
+title: Plan for fiscal year 2016/17
+---
 
 The	BCDevExchange	has	set	out	the	following	goals	for	the	2016/17	fiscal	year:
 - Confirm a	single	sector	and	support	that sector	and	its	technology	industry	in	successfully	creating two new	industry	products	and	services.
