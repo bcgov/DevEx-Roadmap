@@ -58,7 +58,9 @@ navigation:
 - text: Code With Us / Civic Community Contributions
   url: Civic_Community_Contributions/
   internal: true
-
+children:
+      - text: Roadmap
+        url: roadmap/
 
 repos:
 - name: BC Developers' Exchange Roadmap
