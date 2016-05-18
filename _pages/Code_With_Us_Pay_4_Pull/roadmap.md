@@ -1,5 +1,5 @@
 ---
-title: Community Contributions
+title: Pay 4 Pull
 ---
 
 Go and talk to people about the list of refined / new features
