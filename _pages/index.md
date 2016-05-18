@@ -1,10 +1,50 @@
----
-permalink: /
-title: About the Roadmap
----
------------------------------------------------------------------
-This guide has been developed to help you align with agile principles and prepare your environment and team for running scrum (a method of running a team in an agile way). First and foremost, this guide is designed to help a B.C. government product (or service or program) owner determine if they are ready to embark on the transformation necessary to embrace the principles and values associated with agile software development. The scope of this guide is limited to the development of software products or solutions and examines the steps, processes and mindset necessary to create and run a single 5-9 person product team.
+##Plan	for	fiscal	year	2016/17
 
-We would like to acknowledge the work of several governments, agencies and other collaborators, such as the [US Digital Service](https://playbook.cio.gov/) and [18F](https://18f.gsa.gov/), who have created some comprehensive guides that are helping the development community improve the value and quality of software delivery in the public sector.
+The	BCDevExchange	has	set	out	the	following	goals	for	the	2016/17	fiscal	year:
+- Confirm a	single	sector	and	support	that sector	and	its	technology	industry	in	successfully	creating two new	industry	products	and	services.
+- Continue	to	enhance	the	BCDevExchange	platform	to	introduce	new	features	and	new	procurement	
+methods	that	support	larger	units	of	value	exchange.
+- Expand	the	number	of	early	adopter	public	sector	organizations	participating	in	BCDevExchange	by registering	at	least	3	new	partners.
 
-> **Please bear in mind that this guide is an *alpha* version. We'll be editing and adding to it to reflect our continually evolving agile product and service (aka “solution”) design strategy.  We hope that this guidance will be helpful to service stakeholders working across government and we welcome feedback.**
+The	key	activities	to	support	these	goals	are	as	follows:
+
+Assess	the	potential	for	selecting a	single	sector	to	focus	on	and	if	warranted support	that sector	and its	technology	industry	to	successfully	create bi-directional	value. The	BCDevExchange	will	consider	adopting	industry	practice	for	launching	tech	sector	start-up	initiatives by	working	to	select	a	single	sector	and	its	clients	as the	focus	of	further	development	work in	the 2016/17	fiscal	year.	The	idea	would	be	to	use	a	single	sector	as	the	best	way	to	drive	out	results. The candidate	sectors	that have	been	identified	to-date	include:
+- Transportation – within	the	BCDevExchange	there	are	a	number	of	resources	related	to	roads	
+and	traffic	and	public	transport, e.g.	transportation	digital	resources,	webcams,	a	geocoder	API,	
+road	events	API,	etc.			At	the	March	16,	2016 Discovery	Day,	significant	interest	was	shown	in	
+the	transportation	opportunities	by	Translink, the	cities	of	Surrey	and	Vancouver,	and	the	
+Ministry	of	Transportation	and	Infrastructure.		There	is	evidence	from	the	transportation	
+technology	industry	that	there	are	opportunities for	product	development	and	tech	sector	
+growth.
+- Natural	Resources – this sector	is	a	priority	initiative	of	government	and	IM/IT	Transformation.		
+There	are	opportunities for	Natural	Resources	development	and	extraction	and	with	them	there	
+is	a	history	of	companies	being	founded	on	the	basis	of	their	engagement	with	public	sector	
+organizations.		The	Federal government qualified	the	opportunity to	be a $2.5	billion to	GDP	on	
+a	yearly	basis.
+- Real	Estate – the	initial	engagement	with	BC	Assessment	(BCA)	and	the	technology	industry	has	
+highlighted	significant	interest	in	access	to	BCA’s	digital	resources.		Twenty	five	firms	have	
+expressed	direct	interest	through	participation	in	a	Discovery	Day	event.			
+Ministry	of	Technology	Innovation	and	Citizen	Services
+
+Expand	the	services	of the	BCDevExchange	platform	
+- Scale	and	enhance	the	Rapid	Adoption	features	to	accommodate	increased	Pay	for	Pull	
+capabilities	and	other	new	procurement	methods	that	can	enable	the	exchange	of	larger	units	
+of	value,	and	allow	the	public	sector	partners	to	become	positive	reference	customers	for	B.C.’s	
+technology	entrepreneurs.	
+- Implement	a	test	lab	to	facilitate	a	shared	collaboration,	co-design	and	co-development
+environment.
+- Enhance	API	listing	services	to	include	developer	registration,	security	keys	and	more	robust	
+terms	of	use	and	service.	
+- Introduce	data	analytics	as	another	digital	resource	type.
+
+Continue Communication	and	Stakeholder	Engagement
+- Develop,	manage	and	implement	a	2016/17	Stakeholder	Engagement	and	Communication	Plan	
+using	multiple	channels	to	create	awareness	and	understanding	of	the	BCDevExchange	and	
+connect	partners	and	industry	in	meaningful	ways.
+- Continue	to	leverage	technology	accelerators	and	technology	industry	communities	to	reach	
+wider	circles	of	software	developers
+
+Implement	a	Cultural	Change	approach	
+- Develop,	manage	and	implement	a	change	management	plan	to	increase	readiness	levels	with	
+partners	and	selected	sector	clients	and	bring	about	the	cultural	shift	necessary	to	support	the	
+adoption	and	adaptation	to	BCDevExchange	principles.		
