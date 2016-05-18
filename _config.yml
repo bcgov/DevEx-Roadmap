@@ -65,10 +65,6 @@ repos:
   description: Main repository
   url: https://github.com/bcgov/DevEx-Roadmap
 
-back_link:
-  url: "http://guides.pathfinder.bcgov/"
-  text: Read more BC Digital Guides
-
 google_analytics_ua: UA-48605964-19
 
 collections:
