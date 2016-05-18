@@ -1,10 +1,11 @@
 ---
-title: Community Contributions
+title: Pay 4 Pull Road-Map
 ---
 
-Go and talk to people about the list of refined / new features
-
-- Assignment mechanism
+Go and talk to people about the list of refined / new features 
+- Assignment mechanism 
+- Payment options 
+- Payment amounts 
 - Notification service  
 - Badging/Points framework 
 - Automated tool chain 
