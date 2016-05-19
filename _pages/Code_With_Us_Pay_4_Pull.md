@@ -1,5 +1,5 @@
 ---
-title: Code With Us / Pay 4 Pull
+title: Code With Us - Pay For Pull
 ---
 
 1. As a developer, I want to easily contribute work to BC Public Sector programs so that I can be paid, help improve services and contribute to my community while focusing on writing code rather than procurement paperwork. 
