@@ -1,5 +1,5 @@
 ---
-title: Kick Start
+title: Kick Start Your First Release
 ---
 
 As a public sector program owner...
