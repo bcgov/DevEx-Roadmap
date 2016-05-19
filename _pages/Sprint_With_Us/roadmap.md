@@ -19,4 +19,4 @@ Evaluate and Refine the concierge MVP
 
 Confirm initial customer projects
 
-Visit the Sprint With Us [KanBoard](https://waffle.io/BCDevExchange/BCDevExchange-app).
+Visit the Sprint With Us [KanBoard](https://waffle.io/BCDevExchange/BCDevExchange-app)
