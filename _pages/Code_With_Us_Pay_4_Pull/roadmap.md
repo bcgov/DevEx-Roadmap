@@ -15,7 +15,7 @@ Liaise with key stakeholders to confirm adherence with policy and legal requirem
 
 Work with one or more teams that has expressed a need and develop ideas through practice 
 
--Co-create the prototype with early adopters in the community 
+- Co-create the prototype with early adopters in the community 
 
 Conduct simulation of service 
 
