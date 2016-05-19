@@ -19,4 +19,4 @@ Evaluate and Refine the concierge MVP
 Engage potential delivery partners
 Confirm initial customer projects
 
-Vist the Kick Start [Kanboard](https://trello.com/b/X41e9VlZ/service-design)
+Vist the Kick Start [Kanboard](https://waffle.io/BCDevExchange/BCDevExchange-app)
