@@ -21,4 +21,4 @@ Conduct simulation of service
 
 Evaluate and Refine the concierge MVP 
  
-Please visit the Pay 4 Pull [KanBoard](https://bcdevexchange.org/home).
+Please visit the Pay 4 Pull [KanBoard](https://waffle.io/BCDevExchange/BCDevExchange-app).
