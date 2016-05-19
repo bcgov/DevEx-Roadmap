@@ -12,7 +12,8 @@ methods that support larger units of value exchange.
 
 The key activities to support these goals are as follows:
 
-- Assess the potential for selecting a single sector to focus on and if warranted support that sector and its technology industry to successfully create bi-directional value. The BCDevExchange will consider adopting industry practice for launching tech sector start-up initiatives by working to select a single sector and its clients as the focus of further development work in the 2016/17 fiscal year. The idea would be to use a single sector as the best way to drive out results. The candidate sectors that have been identified to-date include:
+Assess the potential for selecting a single sector to focus on and if warranted support that sector and its technology industry to successfully create bi-directional value. The candidate sectors that have been identified to-date include:
+
 - Transportation – within the BCDevExchange there are a number of resources related to roads 
 and traffic and public transport, e.g. transportation digital resources, webcams, a geocoder API, 
 road events API, etc.   At the March 16, 2016 Discovery Day, significant interest was shown in 
