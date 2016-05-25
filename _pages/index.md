@@ -43,6 +43,7 @@ environment.
 terms of use and service. 
 - Introduce data analytics as another digital resource type.
 
+<span id="my_anchor"></span>
 Continue Communication and Stakeholder Engagement:
 
 - Develop, manage and implement a 2016/17 Stakeholder Engagement and Communication Plan 

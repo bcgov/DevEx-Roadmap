@@ -58,6 +58,11 @@ aside {
 header {
 	background-color: #036;
 	border-bottom: 3px solid #fcba19;
+	position: fixed;
+	height: 125px;
+	top: 0;
+	width: 100%;
+	z-index: 100;
 }
 
 a.title-link,
@@ -127,6 +132,12 @@ footer a:visited {
 
 /* SIDE NAVIGATION OVERRIDES
 ---------------------------------------- */
+
+aside {
+	position: fixed;
+	width: 20%;
+}
+
 .sidebar-nav .sidebar-nav-active > a,
 .sidebar-nav a:hover {
 	border-left: 4px solid #036;
@@ -151,4 +162,8 @@ footer a:visited {
 .sidebar-nav .sidebar-nav-active > a,
 .sidebar-nav .sidebar-nav a:hover {
 	border-left: 4px solid #036;
+}
+
+.content {
+	margin-top: 125px;
 }
