@@ -36,36 +36,15 @@ navigation:
 - text: Plan for fiscal year 2016/17
   internal: true
 - text: Kick Start
-  url: Kick_Start/
-  internal: true
-  children:
-  - text: Roadmap
-    url: roadmap/
-    internal: true
+  url: '#Kick_Start'
 - text: Sprint With Us
-  url: Sprint_With_Us/
-  internal: true
-  children:
-    - text: Roadmap
-      url: roadmap/
-      internal: true
+  url: '#Sprint_With_Us'
 - text: Code For Government Ready Products
-  url: Code4Gov/
-  internal: true
+  url: '#Code4Gov'
 - text: Code With Us / Pay 4 Pull
-  url: Code_With_Us_Pay_4_Pull/
-  internal: true
-  children:
-      - text: Roadmap
-        url: roadmap/
-        internal: true
+  url: '#Code_With_Us_Pay_4_Pull'
 - text: Code With Us / Civic Community Contributions
-  url: Civic_Community_Contributions/
-  internal: true
-  children:
-      - text: Roadmap
-        url: roadmap/
-        internal: true
+  url: '#Civic_Community_Contributions'
 
 repos:
 - name: BC Developers' Exchange Roadmap

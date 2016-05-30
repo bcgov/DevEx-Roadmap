@@ -8,7 +8,7 @@
 <div class="container">
     <a class="skip-link visuallyhidden focusable" href="#main">Skip to Main Content</a>
 
-    <header role="banner">
+    <header data-gumshoe-header role="banner">
 
         <div class="wrap">
 
@@ -30,7 +30,7 @@
             {{ content }}
         </section>
 
-        {% guides_style_18f_include sidebar.html %}
+        {% include sidebar.html %}
 
     </div><!-- /.wrap content -->
 
