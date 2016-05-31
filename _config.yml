@@ -33,8 +33,6 @@ expand_nav: false
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Plan for fiscal year 2016/17
-  internal: true
 - text: Kick Start
   url: '#Kick_Start'
 - text: Sprint With Us
