@@ -2,7 +2,7 @@
 permalink: /
 ---
 
-<h2 id="Kick_Start"> Kick Start Your First Release - User Story</h2>
+<h2 id="Kick_Start">Kick Start Your First Release - User Story</h2>
 
 As a public sector program owner...
 
@@ -38,7 +38,7 @@ Engage potential delivery partners
 
 Confirm initial customer projects
 
-Vist the Kick Start [Kanboard](https://waffle.io/BCDevExchange/BCDevExchange-app)
+Vist the Kick Start [Kanboard](https://trello.com/b/z5aY0htv/kick-start)
 
 <h2 id="Sprint_With_Us">Sprint With Us</h2>
 
