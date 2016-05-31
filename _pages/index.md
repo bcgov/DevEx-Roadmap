@@ -2,7 +2,7 @@
 permalink: /
 ---
 
-<h2 id="Kick_Start">Kick Start Your First Release - User Story</h2>
+<h2 id="Kick_Start">Kick Start Your First Release - Epic Story</h2>
 
 As a public sector program owner...
 
