@@ -3,7 +3,9 @@ title: Sprint With Us Road-Map
 ---
 
 Go and talk to the people who are experiencing this challenge
+
 - Initial pitch deck created for both the dev community and government business leads
+
 - Questionnaire of needs created and used to gather information from potential early adopters
 
 Create a concept story and provide a potential solution that everyone can access and contribute to
