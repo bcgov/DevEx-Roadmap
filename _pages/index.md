@@ -97,7 +97,7 @@ Vist the Kick Start [Kanboard](https://waffle.io/BCDevExchange/BCDevExchange-app
 
 2.	As a small team of skilled individuals operating in the private sector I should be able to join a sprint team for a BC public sector program owner in a near-instant manner and be able to continue the engagement as long as it is needed so I can help them quickly and continuously improve their program and its services
 
-### Sprint With Use Roadmap
+### Sprint With Us Roadmap
 
 Go and talk to the people who are experiencing this challenge
 - Initial pitch deck created for both the dev community and government business leads

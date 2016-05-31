@@ -171,3 +171,14 @@ aside {
 .active {
 	color: red;
 }
+
+.roadmap-content {
+	section:before {
+		display: none;
+	}
+
+	h2 {
+		margin-top: 0;
+		padding-top: 20px;
+	}
+}
