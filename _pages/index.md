@@ -87,15 +87,39 @@ Visit the Sprint With Us [KanBoard](https://trello.com/b/5GaODBBc/sprint-with-us
 
 <h2 id="Code4Gov">Code for Government Ready Products</h2>
 
-1. As a public sector program owner I should be able to easily accept an externally developed solution and rapidly deploy it to the intended users so that I can quickly and continuously improve my program and its services​
+As a **public sector program owner**...
 
-2. As a techpreneur and/or software developer I should be able to easily develop a new, or enhance an existing, public sector owner’s application knowing that it can be easily accepted and rapidly deployed to the intended users so that I can be confident that my efforts will result in tangible value​
+I should be able to easily accept an externally developed solution and rapidly deploy it to the intended users...
+
+so that I can quickly and continuously improve my program and its services​
+
+As a **techpreneur and/or software developer**...
+
+I should be able to easily develop a new, or enhance an existing, public sector owner’s application...
+
+knowing that it can be easily accepted and rapidly deployed to the intended users...
+
+so that I can be confident that my efforts will result in tangible value.
+
+### Code4Gov - Product Roadmap
+
+[INSERT]
+
+Visit the Code4Gov [KanBoard](https://trello.com/b/39R3K5dd/code-4-gov)
 
 <h2 id="Code_With_Us_Pay_4_Pull">Code With Us / Pay 4 Pull</h2>
 
-1. As a developer, I want to easily contribute work to BC Public Sector programs so that I can be paid, help improve services and contribute to my community while focusing on writing code rather than procurement paperwork. 
+As a **developer**...
 
-2. As a program owner, I want to obtain and pay for the contributions from developers so that I can improve my programs and services faster and easier than using traditional procurement methods.
+I want to easily contribute work to BC Public Sector programs...
+
+so that I can be paid, help improve services and contribute to my community while focusing on writing code rather than procurement paperwork. 
+
+As a **program owner**...
+
+I want to obtain and pay for the contributions from developers...
+
+so that I can improve my programs and services faster and easier than using traditional procurement methods.
 
 ### Code With Us / Pay For Pull Roadmap
 
@@ -118,15 +142,21 @@ Conduct simulation of service
 
 Evaluate and Refine the concierge MVP 
  
-Please visit the Pay 4 Pull [KanBoard](https://waffle.io/BCDevExchange/BCDevExchange-app)
+Please visit the Pay 4 Pull [KanBoard](https://trello.com/b/HiFIKN0j/p4p)
 
 <h2 id="Civic_Community_Contributions">Code With Us / Civic Community Contributions</h2>
 
-1. As a developer, I want to easily contribute work to BC Public Sector programs without time pressure so that I can help improve services and my community.
+As a **developer**...
 
-2. As a program owner, I want to obtain volunteer contributions from developers so that I can improve my programs and services faster and build a community of knowledge for my product.
+I want to easily contribute work to BC Public Sector programs without time pressure so that I can help improve services and my community.
 
-### Code With Us / Civic Community Contributions
+As a **program owner**...
+
+I want to obtain volunteer contributions from developers...
+
+so that I can improve my programs and services faster and build a community of knowledge for my product.
+
+### Code With Us / Civic Community Contributions - Roadmap
 
 Go and talk to people about the list of refined / new features 
 
@@ -147,4 +177,4 @@ Conduct simulation of service
 
 Evaluate and Refine the concierge MVP 
  
-Please visit the Community Contributions [KanBoard](https://waffle.io/BCDevExchange/BCDevExchange-app)
+Please visit the Community Contributions [KanBoard](https://trello.com/b/4F46oDkv/community-contribution)
