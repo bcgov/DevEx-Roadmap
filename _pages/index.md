@@ -1,6 +1,5 @@
 ---
 permalink: /
-published: false
 ---
 
 <h2 id="Kick_Start">Kick Start Your First Release</h2>

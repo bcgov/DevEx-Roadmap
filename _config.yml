@@ -1,4 +1,3 @@
-markdown: redcarpet
 name: BC Developers' Exchange Roadmap
 exclude:
 - CONTRIBUTING.md
