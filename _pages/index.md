@@ -12,7 +12,7 @@ using the agile methodology, UX/human centered service design, open design/devel
 
 with the assistance of a ready-made program that will train my staff and connect with entrepreneurs and developers...
 
-so that I have tangible results within 6-9 months and a functional, complete, team that can sustain the initiative into future years
+so that I have tangible results within 6-9 months and a functional, complete, team that can sustain the initiative into future years.
 
 ### Kick Start Your First Release - Product Roadmap
 
@@ -40,24 +40,42 @@ Confirm initial customer projects
 
 Vist the Kick Start [Kanboard](https://trello.com/b/z5aY0htv/kick-start)
 
-<h2 id="Sprint_With_Us">Sprint With Us</h2>
+<h2 id="Sprint_With_Us">Sprint With Us - Epic Story</h2>
 
-1.	As a public sector program owner I should be able to field up to 50% of my sprint team (2-4 team members) from a team that is operating in the private sector, in a near-instant manner, and continue that engagement as long as it is needed so that I can quickly, and continuously, improve my program and its services 
+As a public sector program owner...
 
-2.	As a small team of skilled individuals operating in the private sector I should be able to join a sprint team for a BC public sector program owner in a near-instant manner and be able to continue the engagement as long as it is needed so I can help them quickly and continuously improve their program and its services
+I should be able to field up to 50% of my sprint team (2-4 team members) from a team that is operating in the private sector...
+
+in a near-instant manner and continue that engagement as long as it is needed...
+
+so that I can quickly, and continuously, improve my program and its services.
+
+
+As a small team of skilled individuals operating in the private sector...
+
+I should be able to join a sprint team for a BC public sector program owner...
+
+in a near-instant manner and be able to continue the engagement as long as it is needed...
+
+so I can help them quickly and continuously improve their program and its services.
 
 ### Sprint With Us Roadmap
 
+### Sprint With Us - Product Roadmap
+
 Go and talk to the people who are experiencing this challenge
+
 - Initial pitch deck created for both the dev community and government business leads
 - Questionnaire of needs created and used to gather information from potential early adopters
 
 Create a concept story and provide a potential solution that everyone can access and contribute to
+
 - Personas created
 - Initial business canvass completed
 - Journey map(s) built
 
 Work with one or more teams that has expressed a need and develop ideas through practice
+
 - Co-create the prototype with early adopters in the community
 - Conduct simulation of service
 
@@ -65,7 +83,7 @@ Evaluate and Refine the concierge MVP
 
 Confirm initial customer projects
 
-Visit the Sprint With Us [KanBoard](https://waffle.io/BCDevExchange/BCDevExchange-app)
+Visit the Sprint With Us [KanBoard](https://trello.com/b/5GaODBBc/sprint-with-us)
 
 <h2 id="Code4Gov">Code for Government Ready Products</h2>
 
