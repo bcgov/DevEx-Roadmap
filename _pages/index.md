@@ -1,5 +1,6 @@
 ---
 permalink: /
+published: false
 ---
 
 <h2 id="Kick_Start">Kick Start Your First Release - Epic Story</h2>
@@ -42,7 +43,7 @@ Vist the Kick Start [Kanboard](https://trello.com/b/z5aY0htv/kick-start)
 
 <h2 id="Sprint_With_Us">Sprint With Us - Epic Story</h2>
 
-As a public sector program owner...
+As a **public sector program owner**...
 
 I should be able to field up to 50% of my sprint team (2-4 team members) from a team that is operating in the private sector...
 
@@ -51,7 +52,7 @@ in a near-instant manner and continue that engagement as long as it is needed...
 so that I can quickly, and continuously, improve my program and its services.
 
 
-As a small team of skilled individuals operating in the private sector...
+As a **small team of skilled individuals** operating in the private sector...
 
 I should be able to join a sprint team for a BC public sector program owner...
 
@@ -59,7 +60,6 @@ in a near-instant manner and be able to continue the engagement as long as it is
 
 so I can help them quickly and continuously improve their program and its services.
 
-### Sprint With Us Roadmap
 
 ### Sprint With Us - Product Roadmap
 
@@ -148,5 +148,3 @@ Conduct simulation of service
 Evaluate and Refine the concierge MVP 
  
 Please visit the Community Contributions [KanBoard](https://waffle.io/BCDevExchange/BCDevExchange-app)
-
-
