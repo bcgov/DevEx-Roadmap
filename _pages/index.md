@@ -3,7 +3,9 @@ permalink: /
 published: false
 ---
 
-<h2 id="Kick_Start">Kick Start Your First Release - Epic Story</h2>
+<h2 id="Kick_Start">Kick Start Your First Release</h2>
+
+### Epic Story
 
 As a public sector program owner...
 
@@ -15,7 +17,7 @@ with the assistance of a ready-made program that will train my staff and connect
 
 so that I have tangible results within 6-9 months and a functional, complete, team that can sustain the initiative into future years.
 
-### Kick Start Your First Release - Product Roadmap
+### Product Roadmap
 
 Go and talk to the people who are experiencing this challenge
 
