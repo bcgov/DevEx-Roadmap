@@ -1,5 +1,6 @@
 ---
 permalink: /
+published: true
 ---
 
 <h2 id="Kick_Start">Kick Start Your First Release</h2>
@@ -16,7 +17,8 @@ with the assistance of a ready-made program that will train my staff and connect
 
 so that I have tangible results within 6-9 months and a functional, complete, team that can sustain the initiative into future years.
 
-### Product Roadmap
+
+### Roadmap
 
 Go and talk to the people who are experiencing this challenge
 
@@ -42,7 +44,9 @@ Confirm initial customer projects
 
 Vist the Kick Start [Kanboard](https://trello.com/b/z5aY0htv/kick-start)
 
-<h2 id="Sprint_With_Us">Sprint With Us - Epic Story</h2>
+<h2 id="Sprint_With_Us">Sprint With Us</h2>
+
+### Epic Story
 
 As a **public sector program owner**...
 
@@ -62,7 +66,7 @@ in a near-instant manner and be able to continue the engagement as long as it is
 so I can help them quickly and continuously improve their program and its services.
 
 
-### Sprint With Us - Product Roadmap
+### Roadmap
 
 Go and talk to the people who are experiencing this challenge
 
@@ -88,6 +92,8 @@ Visit the Sprint With Us [KanBoard](https://trello.com/b/5GaODBBc/sprint-with-us
 
 <h2 id="Code4Gov">Code for Government Ready Products</h2>
 
+### Epic Story
+
 As a **public sector program owner**...
 
 I should be able to easily accept an externally developed solution and rapidly deploy it to the intended users...
@@ -102,13 +108,16 @@ knowing that it can be easily accepted and rapidly deployed to the intended user
 
 so that I can be confident that my efforts will result in tangible value.
 
-### Code4Gov - Product Roadmap
+
+### Roadmap
 
 [INSERT]
 
 Visit the Code4Gov [KanBoard](https://trello.com/b/39R3K5dd/code-4-gov)
 
 <h2 id="Code_With_Us_Pay_4_Pull">Code With Us / Pay 4 Pull</h2>
+
+### Epic Story
 
 As a **developer**...
 
@@ -122,7 +131,7 @@ I want to obtain and pay for the contributions from developers...
 
 so that I can improve my programs and services faster and easier than using traditional procurement methods.
 
-### Code With Us / Pay For Pull Roadmap
+### Roadmap
 
 Go and talk to people about the list of refined / new features
 
@@ -147,6 +156,8 @@ Please visit the Pay 4 Pull [KanBoard](https://trello.com/b/HiFIKN0j/p4p)
 
 <h2 id="Civic_Community_Contributions">Code With Us / Civic Community Contributions</h2>
 
+### Epic Story
+
 As a **developer**...
 
 I want to easily contribute work to BC Public Sector programs without time pressure so that I can help improve services and my community.
@@ -157,7 +168,7 @@ I want to obtain volunteer contributions from developers...
 
 so that I can improve my programs and services faster and build a community of knowledge for my product.
 
-### Code With Us / Civic Community Contributions - Roadmap
+### Roadmap
 
 Go and talk to people about the list of refined / new features 
 
