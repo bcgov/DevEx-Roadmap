@@ -2,10 +2,12 @@
 permalink: /
 ---
 
-<h2 id="Kick_Start">Kick Start Your First Release</h2>
+<h2 class="epic_title" id="Kick_Start">Kick Start Your First Release</h2>
 
 ### Epic Story
 
+{::options parse_block_html="true" /}
+<div class="epic">
 As a public sector program owner...
 
 I should be able to sponsor my first ever continuous service improvement initiative...
@@ -15,9 +17,11 @@ using the agile methodology, UX/human centered service design, open design/devel
 with the assistance of a ready-made program that will train my staff and connect with entrepreneurs and developers...
 
 so that I have tangible results within 6-9 months and a functional, complete, team that can sustain the initiative into future years.
+</div>
 
 ### Product Roadmap
 
+<div class="roadmap">
 Go and talk to the people who are experiencing this challenge
 
 - Initial pitch deck created
@@ -41,8 +45,9 @@ Engage potential delivery partners
 Confirm initial customer projects
 
 Vist the Kick Start [Kanboard](https://trello.com/b/z5aY0htv/kick-start)
+</div>
 
-<h2 id="Sprint_With_Us">Sprint With Us - Epic Story</h2>
+<h2 class="epic_title" id="Sprint_With_Us">Sprint With Us - Epic Story</h2>
 
 As a **public sector program owner**...
 
@@ -86,7 +91,7 @@ Confirm initial customer projects
 
 Visit the Sprint With Us [KanBoard](https://trello.com/b/5GaODBBc/sprint-with-us)
 
-<h2 id="Code4Gov">Code for Government Ready Products</h2>
+<h2 class="epic_title" id="Code4Gov">Code for Government Ready Products</h2>
 
 As a **public sector program owner**...
 
@@ -108,7 +113,7 @@ so that I can be confident that my efforts will result in tangible value.
 
 Visit the Code4Gov [KanBoard](https://trello.com/b/39R3K5dd/code-4-gov)
 
-<h2 id="Code_With_Us_Pay_4_Pull">Code With Us / Pay 4 Pull</h2>
+<h2 class="epic_title" id="Code_With_Us_Pay_4_Pull">Code With Us / Pay 4 Pull</h2>
 
 As a **developer**...
 
@@ -145,7 +150,7 @@ Evaluate and Refine the concierge MVP
  
 Please visit the Pay 4 Pull [KanBoard](https://trello.com/b/HiFIKN0j/p4p)
 
-<h2 id="Civic_Community_Contributions">Code With Us / Civic Community Contributions</h2>
+<h2 class="epic_title" id="Civic_Community_Contributions">Code With Us / Civic Community Contributions</h2>
 
 As a **developer**...
 
