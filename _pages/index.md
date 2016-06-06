@@ -47,10 +47,12 @@ Confirm initial customer projects
 Vist the Kick Start [Kanboard](https://trello.com/b/z5aY0htv/kick-start)
 </div>
 
-<h2 id="Sprint_With_Us">Sprint With Us</h2>
+<h2 class="epic_title" id="Sprint_With_Us">Sprint With Us</h2>
 
 ### Epic Story
 
+{::options parse_block_html="true" /}
+<div class="epic">
 As a **public sector program owner**...
 
 I should be able to field up to 50% of my sprint team (2-4 team members) from a team that is operating in the private sector...
@@ -67,10 +69,12 @@ I should be able to join a sprint team for a BC public sector program owner...
 in a near-instant manner and be able to continue the engagement as long as it is needed...
 
 so I can help them quickly and continuously improve their program and its services.
-
+</div>
 
 ### Roadmap
 
+{::options parse_block_html="true" /}
+<div class="roadmap">
 Go and talk to the people who are experiencing this challenge
 
 - Initial pitch deck created for both the dev community and government business leads
@@ -92,11 +96,14 @@ Evaluate and Refine the concierge MVP
 Confirm initial customer projects
 
 Visit the Sprint With Us [KanBoard](https://trello.com/b/5GaODBBc/sprint-with-us)
+</div>
 
 <h2 class="epic_title" id="Code4Gov">Code for Government Ready Products</h2>
 
 ### Epic Story
 
+{::options parse_block_html="true" /}
+<div class="epic">
 As a **public sector program owner**...
 
 I should be able to easily accept an externally developed solution and rapidly deploy it to the intended users...
@@ -110,18 +117,24 @@ I should be able to easily develop a new, or enhance an existing, public sector 
 knowing that it can be easily accepted and rapidly deployed to the intended users...
 
 so that I can be confident that my efforts will result in tangible value.
-
+</div>
 
 ### Roadmap
 
+{::options parse_block_html="true" /}
+<div class="roadmap">
 [INSERT]
 
 Visit the Code4Gov [KanBoard](https://trello.com/b/39R3K5dd/code-4-gov)
+</div>
 
 <h2 class="epic_title" id="Code_With_Us_Pay_4_Pull">Code With Us / Pay 4 Pull</h2>
 
+
 ### Epic Story
 
+{::options parse_block_html="true" /}
+<div class="epic">
 As a **developer**...
 
 I want to easily contribute work to BC Public Sector programs...
@@ -133,9 +146,12 @@ As a **program owner**...
 I want to obtain and pay for the contributions from developers...
 
 so that I can improve my programs and services faster and easier than using traditional procurement methods.
+</div>
 
 ### Roadmap
 
+{::options parse_block_html="true" /}
+<div class="epic">
 Go and talk to people about the list of refined / new features
 
 - Assignment mechanism
@@ -156,11 +172,14 @@ Conduct simulation of service
 Evaluate and Refine the concierge MVP 
  
 Please visit the Pay 4 Pull [KanBoard](https://trello.com/b/HiFIKN0j/p4p)
+</div>
 
 <h2 class="epic_title" id="Civic_Community_Contributions">Code With Us / Civic Community Contributions</h2>
 
 ### Epic Story
 
+{::options parse_block_html="true" /}
+<div class="epic">
 As a **developer**...
 
 I want to easily contribute work to BC Public Sector programs without time pressure so that I can help improve services and my community.
@@ -170,9 +189,12 @@ As a **program owner**...
 I want to obtain volunteer contributions from developers...
 
 so that I can improve my programs and services faster and build a community of knowledge for my product.
+</div>
 
 ### Roadmap
 
+{::options parse_block_html="true" /}
+<div class="roadmap">
 Go and talk to people about the list of refined / new features 
 
 - Assignment mechanism
@@ -193,3 +215,4 @@ Conduct simulation of service
 Evaluate and Refine the concierge MVP 
  
 Please visit the Community Contributions [KanBoard](https://trello.com/b/4F46oDkv/community-contribution)
+</div>
