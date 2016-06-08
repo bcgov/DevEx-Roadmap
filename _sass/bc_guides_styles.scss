@@ -4,37 +4,49 @@
 	src: url('../fonts/MyriadWebPro.ttf');
 }
 
+$app-bg: #FFF;
+$app-base-font-color: #494949;
+
 html {
 	font-size: 10px;
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust: 100%;
+	background: $app-bg;
 }
 
 body {
 	margin: 0;
+	font-family: Myriad-Pro, Calibri, Arial, Sans Serif;
+	color: $app-base-font-color;
 }
 
 h1, h2, h3, h4, h5 {
 	font-family: Myriad-Pro, Calibri, Arial, Sans Serif;
-	/* font-family: Montserrat, sans-serif; */
 	font-weight: 600;
 }
 
 h2 {
-	margin-top: 2rem;
-	font-size: 2.4rem;
+	margin-top: 0;
+	margin-bottom: 1rem;
+	padding-top: 3rem;
+	font-size: 2.6rem;
+	line-height: 3rem;
 }
 
 h3 {
-	font-size: 2rem;
+	margin-top: 1.5rem;
+	margin-bottom: 0;
+	padding: 1rem 1.5rem;
+	font-size: 1.8rem;
+	font-weight: bold;
+	color: #FFF;
+	background: #2b5580;
 }
 
 p {
-	font-family: Myriad-Pro, Calibri, Arial, Sans Serif;
-	font-size: 1.8rem;
+	font-size: 1.6rem;
 	font-weight: 300;
-	color: #494949;
-	line-height: 3.2rem;
+	line-height: 2.2rem;
 }
 
 a, a:link, a:visited,
@@ -42,27 +54,138 @@ p a, p a:link, p a:visited {
 	color: #1a5a96;
 }
 
-hr {
-	margin-top: 0.8rem;
-	color: #EEE;
-	border-style: solid;
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
 }
 
-aside {
-	margin-top: 0.5rem;
+.cf:after {
+    clear: both;
+}
+
+
+/* UPDATED LAYOUT
+---------------------------------------- */
+@media screen and (min-width: 45rem) {
+	.main-content {
+		margin-bottom: 0;
+		width: auto;
+		padding-left: 22rem;
+	}
+}
+
+.roadmap-content {
+	margin-top: 6.5rem;
+	padding-top: 0;
+
+	aside {
+		p.intro {
+			display: none; /* overried to remove unused intro text that dropped here for some reason */
+		}
+	}
+}
+
+
+/* PAGE CONTENT
+---------------------------------------- */
+$page-section-bg: #F1F1F1;
+$page-section-text-shadow: #FFF;
+
+.main-content {
+	> h2:first-child { /* override to remove random H2 that appears at the top of the page */
+		display: none;
+	}
+}
+
+section:before {
+	display: none;
+}
+
+.page-section {
+	margin-bottom: 2rem;
+	padding: 2rem;
+	background: $page-section-bg;
+
+	hr {
+		margin-top: 2.5rem;
+		margin-bottom: 2.5rem;
+		border: none;
+		border-top: 1px solid #CCC;
+	}
+
+	h4 {
+		margin: 0;
+		font-size: 1.8rem;
+		font-weight: normal;
+		text-transform: none;
+
+		strong {
+			font-size: 2rem;
+			color: $app-base-font-color;
+		}
+	}
+
+	p:first-child {
+		margin-top: 0;
+	}
+
+	p:last-child {
+		margin-bottom: 0;
+	}
+
+	ul {
+		margin-left: 2rem;
+		font-size: 1.4rem;
+		font-weight: bold;
+		list-style-type: square;
+	}
+
+	li {
+		margin-bottom: 0.5rem;
+		letter-spacing: -0.01rem;
+		text-shadow: 1px 1px 0 $page-section-text-shadow;
+	}
+
+	ul:last-child,
+	li:last-child {
+		margin-bottom: 0;
+	}
 }
 
 
 /* HEADER OVERRIDES
 ---------------------------------------- */
 header {
-	background-color: #036;
-	border-bottom: 3px solid #fcba19;
 	position: fixed;
-	height: 125px;
 	top: 0;
 	width: 100%;
+	height: 6.5rem;
+	padding: 0;
+	background-color: #003366;
+	border-bottom: 3px solid #fcba19;
 	z-index: 100;
+
+	div.wrap {
+		margin-top: 0.9rem;
+		padding-top: 0;
+		font-family: Myriad-Pro, Calibri, Arial, Sans Serif;
+		color: #FFF;
+	}
+
+	div.back-link {
+		margin-top: 1rem;
+		font-family: Myriad-Pro, Calibri, Arial, Sans Serif;
+		color: #FFF;
+	}
+
+	h1.site-title {
+		width: auto;
+		padding-top: 0.7rem;
+		padding-left: 18rem;
+		background-image: url(../../images/gov3_bc_logo.png);
+		background-repeat: no-repeat;
+	}
 }
 
 a.title-link,
@@ -70,24 +193,16 @@ a.title-link:hover,
 a.title-link:active,
 a.title-link:focus {
 	font-family: Myriad-Pro, Calibri, Arial, Sans Serif;
-	font-size: 3rem;
+	font-size: 2.6rem;
 	font-weight: 400;
 	color: #FFF;
-}
 
-h1.site-title {
-	margin-top: 2rem;
-	background-image: url(../../images/gov3_bc_logo.png);
-	background-repeat: no-repeat;
-	padding-top: 0.6rem;
-	padding-left: 18rem;
-}
-
-header div.wrap div.back-link {
-	margin-top: 1rem;
-	font-family: Myriad-Pro, Calibri, Arial, Sans Serif;
-	font-weight: 400;
-	color: #FFF;
+	/* Shrinkg type size to ensure banner title text doesn't spill over on mobile devices */
+	@media only screen
+	and (min-device-width: 320px)
+	and (max-device-width: 480px) {
+		font-size: 1rem;
+	}
 }
 
 
@@ -108,94 +223,71 @@ div.search-interface input:focus {
 
 /* FOOTER OVERRIDES
 ---------------------------------------- */
+
+
 footer {
-	font-family: Myriad-Pro, Calibri, Arial, Sans Serif;
 	font-size: 1.4rem;
 	font-weight: 400;
 	color: #FFF;
 	background-color: #036;
 	border-top: 2px solid #fcba19;
-}
 
-footer p {
-	font-size: 1.4rem;
-	color: #FFF;
-}
+	p {
+		font-size: 1.4rem;
+		color: #FFF;
+	}
 
-footer a,
-footer a:link,
-footer a:visited {
-	color: #FFF;
-	border-bottom-color: #FFF;
+	a,
+	a:link,
+	a:visited {
+		color: #FFF;
+		border-bottom-color: #FFF;
+	}
 }
 
 
 /* SIDE NAVIGATION OVERRIDES
 ---------------------------------------- */
-
 aside {
-	position: fixed;
-	width: 20%;
+	margin-top: 2rem;
+	border: 1px solid #E2E2E2;
 }
 
-.sidebar-nav .sidebar-nav-active > a,
-.sidebar-nav a:hover {
-	border-left: 4px solid #036;
-}
-
-.sidebar-nav .sidebar-nav-active > a {
-	font-weight: 700;
-}
-
-.sidebar-nav li {
-	font-size: 1.4rem;
-	border-bottom: 1px solid #EEE;
-}
-
-.sidebar-nav a,
-.sidebar-nav a:link,
-.sidebar-nav a:visited {
-	padding: 1rem;
-	color: #1a5a96;
-}
-
-.sidebar-nav .sidebar-nav-active > a,
-.sidebar-nav .sidebar-nav a:hover {
-	border-left: 4px solid #036;
-}
-
-.content {
-	margin-top: 125px;
-}
-
-.active {
-	color: red;
-}
-
-.roadmap-content {
-	section:before {
-		display: none;
+@media (min-width: 768px) {
+	aside {
+		position: fixed;
+		top: 9rem;
+		margin: 0;
+		width: 20rem;
+		border: none;
 	}
+}
 
-	h2 {
-		margin-top: 0;
-		padding-top: 20px;
-		//border-style: solid;
-		//border-width: 1px;
-		//background: whitesmoke;
-	}
-
-	h3 {
-		margin-bottom: 0;
-		border-bottom: 1px solid #036;
-	}
-
+.sidebar-nav {
 	li {
-		font-size: 1.5rem;
+		font-size: 1.4rem;
+		border-bottom: 1px solid #EEE;
 	}
-	.epic, .roadmap {
-		background: whitesmoke;
-		padding: 10px 10px 10px 40px;
-		border-left: 6px solid #036;
+
+	a,
+	a:link,
+	a:visited {
+		width: 100%;
+		padding: 1rem;
+		color: #1a5a96;
+	}
+
+	a:hover,
+	a:focus {
+		border-left: 4px solid #003366;
+		outline: none;
+	}
+
+	.sidebar-nav-active {
+		> a {
+			font-weight: 700;
+			border-left: 4px solid #003366;
+			outline: none;
+		}
 	}
 }
