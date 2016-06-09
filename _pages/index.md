@@ -1,5 +1,6 @@
 ---
 permalink: /
+published: true
 ---
 
 <!-- KICKSTART -->
@@ -137,7 +138,22 @@ so that I can be confident that my efforts will result in tangible value.
 
 {::options parse_block_html="true" /}
 <div class="page-section">
-[INSERT]
+
+Go talk to potential early adopters and determine areas of inefficiency
+
+- Questionnaire of needs created and used to gather information from potential early adopters
+
+Create value propositions for the early adopters
+
+Create concept story and test with early adopters
+
+Create enabling technical conditions
+
+Co-create a prototype to validate service framework
+
+Evaluate and refine concierge MVP
+
+Confirm initial customer projects
 
 Visit the Code4Gov [KanBoard](https://trello.com/b/39R3K5dd/code-4-gov)
 
