@@ -32,6 +32,8 @@ expand_nav: false
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
+- text: Introduction
+  url: '#Introduction'
 - text: Kick Start
   url: '#Kick_Start'
 - text: Sprint With Us
