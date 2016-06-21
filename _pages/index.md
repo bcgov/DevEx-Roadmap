@@ -345,6 +345,7 @@ Please visit the Pay 4 Pull [KanBoard](https://trello.com/b/HiFIKN0j/p4p)
 
 {::options parse_block_html="true" /}
 <div class="page-section">
+
 Some community members have told us they would like to contribute to government open source projects as volunteers. Volunteer contributions would be accepted under a timeline that aligns with the needs of volunteer contributors.
 
 </div>
@@ -372,6 +373,7 @@ so that I can improve my programs and services faster and build a community of k
 
 {::options parse_block_html="true" /}
 <div class="page-section">
+
 Go and talk to people about the list of refined / new features 
 
 - Assignment mechanism
@@ -392,5 +394,7 @@ Conduct simulation of service
 Evaluate and Refine the concierge MVP 
  
 Please visit the Community Contributions [KanBoard](https://trello.com/b/4F46oDkv/community-contribution)
+
 </div>
-<!-- CODE WITH US - CCC -->
+
+<!-- / CODE WITH US - CCC -->
