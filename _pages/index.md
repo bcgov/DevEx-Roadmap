@@ -345,7 +345,6 @@ Please visit the Pay 4 Pull [KanBoard](https://trello.com/b/HiFIKN0j/p4p)
 
 {::options parse_block_html="true" /}
 <div class="page-section">
-
 Some community members have told us they would like to contribute to government open source projects as volunteers. Volunteer contributions would be accepted under a timeline that aligns with the needs of volunteer contributors.
 
 </div>
