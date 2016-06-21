@@ -223,7 +223,8 @@ Visit the Sprint With Us [KanBoard](https://trello.com/b/5GaODBBc/sprint-with-us
 {::options parse_block_html="true" /}
 <div class="page-section">
 
-Code for Government Ready products is the business process and tech stack - think DevOps and automated tool chains – to make continuous release possible. In order to successfully do continuous release projects need to break down the silos between those who develop the code, and those who operate the system. We will pilot the DevOps approach within the B.C. public sector, bringing the code developers and operations staff together on one team. To make this all work we are exploring an automated tool chain, a variety of tools in the marketplace that when combined make it possible to rapidly deploy code from the dev environment to the production environment.  The end goal is to make it easier to collaborate with entrepreneurs, companies and startups in the B.C. tech sector. 
+Code for Government Ready products is the business process and tech stack - think DevOps and automated tool chains – to make continuous release possible. In order to successfully do continuous release projects need to break down the silos between those who develop the code, and those who operate the system. We will pilot the DevOps approach within the B.C. public sector, bringing the code developers and operations staff together on one team. To make this all work we are exploring an automated tool chain, a variety of tools in the marketplace that when combined make it possible to rapidly deploy code from the dev environment to the production environment.  The end goal is to make it easier to collaborate with entrepreneurs, companies and startups in the B.C. tech sector.
+
 We will share parts of this tech stack with the B.C. tech community so that we can rapidly adopt their technical solutions.
 
 </div>
@@ -279,10 +280,20 @@ Visit the Code4Gov [KanBoard](https://trello.com/b/39R3K5dd/code-4-gov)
 <!-- CODE WITH US - PAY 4 PULL -->
 <h2 class="epic_title" id="Code_With_Us_Pay_4_Pull">Code With Us / Pay 4 Pull</h2>
 
+### What is Pay 4 Pull
+
+{::options parse_block_html="true" /}
+<div class="page-section">
+
+Pay for Pull’ is an experimental procurement model to explore new ways we could attract developers to work on public sector tech challenges. We create an issue in GitHub, the popular code sharing platform, and label it with ‘Help Wanted” and ‘$1000’. In the issue we will explain what we want done, sparking conversation between government technical staff and developers interested in doing the work. Interested developers can do the work and send us their code in GitHub – using a pull request. If we accept the code, we pay the developer $1000 via PayPal. 
+
+</div>
+
 ### User Story - epic
 
 {::options parse_block_html="true" /}
 <div class="page-section">
+
 #### As a **developer**...
 
 I want to easily contribute work to BC Public Sector programs...
