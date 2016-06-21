@@ -3,6 +3,7 @@ title: Sprint With Us Road-Map
 ---
 
 Go and talk to the people who are experiencing this challenge
+
 - Initial pitch deck created for both the dev community and government business leads
 - Questionnaire of needs created and used to gather information from potential early adopters
 
@@ -19,4 +20,4 @@ Evaluate and Refine the concierge MVP
 
 Confirm initial customer projects
 
-Visit the Sprint With Us [KanBoard](http://www.agilegov.ca/).
+Visit the Sprint With Us [KanBoard](https://waffle.io/BCDevExchange/BCDevExchange-app)

@@ -1,0 +1,12 @@
+<aside>
+    <p class="intro">{{ site.subtitle }}</p>
+    <nav class="sidebar-nav" role="navigation">
+        <ul data-gumshoe>{% for link in site.navigation %}{% capture parent_url %}/{{ link.url }}{% endcapture %}
+            <li class="group">
+                <a data-scroll href="{% if link.internal == true %}{{ site.baseurl }}/{% endif %}{{ link.url }}"
+                   title="{% if page.url == parent_url %}Current Page
+                  {% else %}{{ link.text }}{% endif %}">{{ link.text }}</a>
+            </li>{% endfor %}
+        </ul>
+    </nav>
+</aside>

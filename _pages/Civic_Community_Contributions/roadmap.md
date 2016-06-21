@@ -1,8 +1,8 @@
 ---
-title: Pay 4 Pull
+title: Civic Community Contributions
 ---
 
-Go and talk to people about the list of refined / new features
+Go and talk to people about the list of refined / new features 
 
 - Assignment mechanism
 - Notification service  
@@ -21,4 +21,4 @@ Conduct simulation of service
 
 Evaluate and Refine the concierge MVP 
  
-Please visit the Pay 4 Pull [KanBoard](https://waffle.io/BCDevExchange/BCDevExchange-app)
+Please visit the Community Contributions [KanBoard](https://waffle.io/BCDevExchange/BCDevExchange-app)
