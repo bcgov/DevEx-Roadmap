@@ -93,7 +93,7 @@ To see what we're working on please visit our [Kanboard](https://trello.com/b/j3
 <!-- KICKSTART -->
 <h2 id="Kick_Start">Kick Start Your First Release</h2>
 
-### Kick Start Your First Release
+### What is Kick Start
 
 {::options parse_block_html="true" /}
 
@@ -153,10 +153,20 @@ Vist the Kick Start [Kanboard](https://trello.com/b/z5aY0htv/kick-start)
 <!-- SPRINT WITH US -->
 <h2 id="Sprint_With_Us">Sprint With Us</h2>
 
+### What is Sprint With Us
+
+{::options parse_block_html="true" /}
+<div class="page-section">
+
+Government IT projects that use Agile Methodology may discover that they need to rapidly bring new people and skills onto their sprint team. The value of Agile is the ability to pivot and go in a new direction based on research with your user community. A change in direction may mean you need to add different skills and expertise to your Agile team. Waiting weeks to procure a new contractor could pose risks to keeping a project on the sprint schedule. ‘Sprint with Us’ is a concept for a new procurement model that allows projects to rapidly scale up their sprint teams.
+
+</div>
+
 ### User Story - epic
 
 {::options parse_block_html="true" /}
 <div class="page-section">
+
 #### As a **public sector program owner**...
 
 I should be able to field up to 50% of my sprint team (2-4 team members) from a team that is operating in the private sector...
