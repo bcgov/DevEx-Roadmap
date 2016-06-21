@@ -5,31 +5,35 @@ published: true
 <!-- INTRODUCTION -->
 <h2 id="Introduction">Introduction to our roadmap</h2>
 
-
-### Intro Text
-
-{::options parse_block_html="true" /}
-
-<div class="page-section">
-
-Insert text
-
-</div>
-
-### How we created this roadmap
+### Why are we sharing our roadmap
 
 {::options parse_block_html="true" /}
 
 <div class="page-section">
 
-Insert text
+We are building in partnership with our user community – the developers, app builders, startups and public sector innovators - who we expect to use the BCDevExchange.
+
+Early on we heard from B.C.’s tech community that we should not build the BCDevExchange in isolation, advice we have taken to heart. 
+
+That is why everything we do is in the open. From the beginning we published the open source code that powers the BCDevExchange app in GitHub, the popular online code sharing platform. 
+
+We are now sharing our 2016/17 service roadmap as part of our concerted effort to engage with B.C.’s tech community to help shape, refine and contribute to the development of the BCDevExchange. 
+
+We invite you to see what we’re doing and tell us your opinion and advice on how we should provide business value to our user community. 
 
 </div>
 
-### How to use this roadmap
+### Where did the roadmap come from
 
 <div class="page-section">
-INSERT TEXT
+
+The BCDevExchange follows the Agile Methodology. We build, test and refine based on our user’s feedback to ensure we deliver value to our users. 
+
+The content of this roadmap was derived through the work with did with our community last year, and may change based on further interactions with our community this year. 
+
+To create the roadmap, we first examined our research findings on common business needs in the community. We then determined how we could meet those business needs with a range of services which you will find in this roadmap.  
+
+We realized business needs could be themed into cultural, process and technological transformations; the collective objective being to accelerate the speed of value delivery and increase the quality at a code base level. 
 
 To see what we're working on please visit our [Kanboard](https://trello.com/b/j3Ol7kEr/a-roadmap)
 
