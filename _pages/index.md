@@ -341,10 +341,20 @@ Please visit the Pay 4 Pull [KanBoard](https://trello.com/b/HiFIKN0j/p4p)
 <!-- CODE WITH US - CCC -->
 <h2 class="epic_title" id="Civic_Community_Contributions">Code With Us / Civic Community Contributions</h2>
 
+### What is Civic Community Contribution
+
+{::options parse_block_html="true" /}
+<div class="page-section">
+
+Some community members have told us they would like to contribute to government open source projects as volunteers. Volunteer contributions would be accepted under a timeline that aligns with the needs of volunteer contributors.
+
+</div>
+
 ### User Story - epic
 
 {::options parse_block_html="true" /}
 <div class="page-section">
+
 #### As a **developer**...
 
 I want to easily contribute work to BC Public Sector programs without time pressure so that I can help improve services and my community.
