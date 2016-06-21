@@ -5,6 +5,24 @@ published: true
 <!-- INTRODUCTION -->
 <h2 id="Introduction">Introduction to our roadmap</h2>
 
+### What is the BCDevExchange
+
+{::options parse_block_html="true" /}
+
+<div class="page-section">
+
+The BCDevExchange is experimenting with new ways for tech innovators and government to work together, grow B.C.’s economy, and make services for British Columbians better.
+
+To build better technology services and help B.C.’s tech industry grow we are:
+
+- Creating new, faster, streamlined ways for the public sector to acquire software from the tech community.
+
+- Matching the business needs of government organizations in B.C. with innovations from B.C.’s technology industry.
+
+- Sharing government digital resources – code, data and APIs – that entrepreneurs can use to seed their businesses.  
+
+</div>
+
 ### Why are we sharing our roadmap
 
 {::options parse_block_html="true" /}
@@ -19,7 +37,7 @@ That is why everything we do is in the open. From the beginning we published the
 
 We are now sharing our 2016/17 service roadmap as part of our concerted effort to engage with B.C.’s tech community to help shape, refine and contribute to the development of the BCDevExchange. 
 
-We invite you to see what we’re doing and tell us your opinion and advice on how we should provide business value to our user community. 
+We invite you to see what we’re doing and tell us your opinion and advice on how we should provide business value to our user community.
 
 </div>
 
@@ -33,7 +51,39 @@ The content of this roadmap was derived through the work with did with our commu
 
 To create the roadmap, we first examined our research findings on common business needs in the community. We then determined how we could meet those business needs with a range of services which you will find in this roadmap.  
 
-We realized business needs could be themed into cultural, process and technological transformations; the collective objective being to accelerate the speed of value delivery and increase the quality at a code base level. 
+We realized business needs could be themed into cultural, process and technological transformations; the collective objective being to accelerate the speed of value delivery and increase the quality at a code base level.
+
+</div>
+
+### How to use this roadmap
+
+<div class="page-section">
+
+In broad terms, this roadmap describes the potential services of the BCDevExchange. These are the, Epics – our big pieces of work – for this fiscal year (2016/2017).
+
+For each Epic there is a high-level user story and the stages we will follow, beginning with customer discovery and user research.
+
+If you would like more detail, each Epic gets further broken down into smaller user stories which can be viewed and commented on in our Kanban boards. At the smaller user story level, you can find and explore the tasks and associated artifacts related to each story.
+
+These Kanban boards organize our user stories into our product backlog, work underway during our current two-week development sprint, and a work already completed in the done column.
+
+To see what we're working on please visit our [Kanboard](https://trello.com/b/j3Ol7kEr/a-roadmap)
+
+</div>
+
+### How to contribute
+
+<div class="page-section">
+
+We encourage you to explore, examine and share your ideas as we are always looking for input that will help us provide the most user value.
+
+These are the ways you can contribute to the roadmap:
+
+- The code and content for the roadmap is all in this GitHub repo. Send us a pull request with your suggested edits.
+
+- If you have a question about the roadmap, open an issue in the repo and we will respond.
+
+- Each of the smaller user stories is an issue in GitHub. Comment on the issue to give your feedback.
 
 To see what we're working on please visit our [Kanboard](https://trello.com/b/j3Ol7kEr/a-roadmap)
 
@@ -42,6 +92,16 @@ To see what we're working on please visit our [Kanboard](https://trello.com/b/j3
 <!-- / INTRODUCTION -->
 <!-- KICKSTART -->
 <h2 id="Kick_Start">Kick Start Your First Release</h2>
+
+### Kick Start Your First Release
+
+{::options parse_block_html="true" /}
+
+<div class="page-section">
+
+The BCDevExchange is experimenting with how we deliver IT projects. The concept is to deliver faster and continuous user value with new tools and methods. This year we are looking for a few government projects to run through our ‘Kick Start Your First Release’ service. Instead of packaging many features into a once or thrice a year release, we will help these projects release features continuously, on a two to three week sprint schedule following an Agile Methodology. Features released will be informed by user research and the code created will be open source, providing opportunities for collaboration with entrepreneurs, companies and startups in the B.C. tech sector. These projects will also follow the DevOps approach. See Code For Government Ready Products for more info.
+
+</div>
 
 ### User Story - epic
 
