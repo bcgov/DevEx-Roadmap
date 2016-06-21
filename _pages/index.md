@@ -218,6 +218,16 @@ Visit the Sprint With Us [KanBoard](https://trello.com/b/5GaODBBc/sprint-with-us
 <!-- CODE FOR GOVERNMENT READY PRODUCTS -->
 <h2 id="Code4Gov">Code for Government Ready Products</h2>
 
+### What is Code For Gov Ready Products
+
+{::options parse_block_html="true" /}
+<div class="page-section">
+
+Code for Government Ready products is the business process and tech stack - think DevOps and automated tool chains – to make continuous release possible. In order to successfully do continuous release projects need to break down the silos between those who develop the code, and those who operate the system. We will pilot the DevOps approach within the B.C. public sector, bringing the code developers and operations staff together on one team. To make this all work we are exploring an automated tool chain, a variety of tools in the marketplace that when combined make it possible to rapidly deploy code from the dev environment to the production environment.  The end goal is to make it easier to collaborate with entrepreneurs, companies and startups in the B.C. tech sector. 
+We will share parts of this tech stack with the B.C. tech community so that we can rapidly adopt their technical solutions.
+
+</div>
+
 ### User Story - epic
 
 {::options parse_block_html="true" /}
