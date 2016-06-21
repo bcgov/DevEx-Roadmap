@@ -2,7 +2,7 @@
 permalink: /
 published: true
 ---
-<!-- Introduction -->
+<!-- INTRODUCTION -->
 <h2 id="Introduction">Introduction to our roadmap</h2>
 
 ### How we created this roadmap
@@ -21,8 +21,10 @@ Insert text
 INSERT TEXT
 
 To see what we're working on please visit our [Kanboard](https://trello.com/b/j3Ol7kEr/a-roadmap)
+
 </div>
 
+<!-- / INTRODUCTION -->
 <!-- KICKSTART -->
 <h2 id="Kick_Start">Kick Start Your First Release</h2>
 
