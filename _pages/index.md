@@ -5,6 +5,17 @@ published: true
 <!-- INTRODUCTION -->
 <h2 id="Introduction">Introduction to our roadmap</h2>
 
+
+### Intro Text
+
+{::options parse_block_html="true" /}
+
+<div class="page-section">
+
+Insert text
+
+</div>
+
 ### How we created this roadmap
 
 {::options parse_block_html="true" /}
