@@ -29,15 +29,16 @@ To build better technology services and help B.C.’s tech industry grow we are:
 
 <div class="page-section">
 
-We are building in partnership with our user community – the developers, app builders, startups and public sector innovators - who we expect to use the BCDevExchange.
+We are partnering with our community – the developers, app builders, start-ups and public sector innovators - who we intend to be users of the BCDevExchange.
 
-Early on we heard from B.C.’s tech community that we should not build the BCDevExchange in isolation, advice we have taken to heart. 
+Early on, B.C.’s tech community told us we should not build the BCDevExchange in isolation, advice we have taken to heart. 
 
-That is why everything we do is in the open. From the beginning we published the open source code that powers the BCDevExchange app in GitHub, the popular online code sharing platform. 
+So we are learning how to work in the open.  From the beginning we published the open source code that powers the BCDevExchange app in GitHub, the popular online code sharing platform, and worked to openly share a growing number of digital resources, including APIs, code and data. 
 
-We are now sharing our 2016/17 service roadmap as part of our concerted effort to engage with B.C.’s tech community to help shape, refine and contribute to the development of the BCDevExchange. 
+We are sharing our 2016/17 service roadmap as part of a concerted effort to engage with B.C.’s tech community to enable them to help shape, refine and contribute to the development of the BCDevExchange. 
 
-We invite you to see what we’re doing and tell us your opinion and advice on how we should provide business value to our user community.
+We invite you to see what doing, and to provide your advice and contributions for how to evolve the BC Developers’ Exchange. 
+
 
 </div>
 
@@ -45,13 +46,14 @@ We invite you to see what we’re doing and tell us your opinion and advice on h
 
 <div class="page-section">
 
-The BCDevExchange follows the Agile Methodology. We build, test and refine based on our user’s feedback to ensure we deliver value to our users. 
+The BCDevExchange team is treating the BC Developers’ Exchange initiative as a type of “Lean Start-up” effort.  We do customer-centered service design and use an Agile Methodology. We build, test and refine based on our user’s feedback to ensure we deliver value to our users. 
 
-The content of this roadmap was derived through the work with did with our community last year, and may change based on further interactions with our community this year. 
+The roadmap was derived through work we did with our community last year, and may change based on feedback from our community this year. 
 
 To create the roadmap, we first examined our research findings on common business needs in the community. We then determined how we could meet those business needs with a range of services which you will find in this roadmap.  
 
-We realized business needs could be themed into cultural, process and technological transformations; the collective objective being to accelerate the speed of value delivery and increase the quality at a code base level.
+We realized business needs could be themed into cultural, process and technological transformations; the collective objective being to accelerate the speed of value delivery and increase the quality at a code base level. 
+
 
 </div>
 
