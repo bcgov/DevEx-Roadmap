@@ -295,15 +295,15 @@ Visit the Code4Gov [KanBoard](https://trello.com/b/39R3K5dd/code-4-gov)
 </div>
 
 
-<!-- CODE WITH US - Challenge – Bounty -->
-<h2 class="epic_title" id="Challenge_Bounty">Challenge – Bounty</h2>
+<!-- CODE WITH US - Paid -->
+<h2 class="epic_title" id="Code_With_Us_Paid">Code With Us - Paid</h2>
 
-### Challenge – Bounty
+### What is Code With Us – Paid
 
 {::options parse_block_html="true" /}
 <div class="page-section">
 
-Challenges will be a foundational tool for collaboration on the BCDevExchange between government projects and the tech community. An experimental procurement model formerly called ‘Pay for Pull’, Challenges offer a monetary reward, or a bounty are new way to attract developers to work on public sector tech projects. We create an issue in GitHub, the popular code sharing platform, and label it with ‘Help Wanted” and a value (e.g. $1000). In the issue we will explain what we want done, sparking conversation between government technical staff and developers interested in doing the work. Interested developers can do the work and send us their code in GitHub – using a pull request. If we accept the code, we pay the developer via PayPal. 
+Code With Us/Paid will be a foundational tool for collaboration on the BCDevExchange between government projects and the tech community. An experimental procurement model formerly called ‘Pay for Pull’, Code With Us/Paid offer a monetary reward, or a bounty are new way to attract developers to work on public sector tech projects. We create an issue in GitHub, the popular code sharing platform, and label it with ‘Help Wanted” and a value (e.g. $1000). In the issue we will explain what we want done, sparking conversation between government technical staff and developers interested in doing the work. Interested developers can do the work and send us their code in GitHub – using a pull request. If we accept the code, we pay the developer via PayPal. 
 
 We tested this model and are now making changes based on what we learned from our community feedback. These changes include a way to assign the work to one developer, transaction amounts higher than $1000, more payment options than just PayPal, notification of challenges and ways to improve the confidence of government technical contacts responsible for accepting code submissions. Track our progress on our [Trello board](https://trello.com/b/HiFIKN0j/devex-challenge-bounty) and tell us what you think.
 
@@ -355,20 +355,20 @@ Conduct simulation of service
 
 Evaluate and Refine the concierge MVP 
  
-Please visit the Pay 4 Pull [KanBoard](https://trello.com/b/HiFIKN0j/p4p)
+Please visit the Code With Us/Paid [KanBoard](https://trello.com/b/HiFIKN0j/p4p)
 
 </div>
-<!-- / CODE WITH US - PAY 4 PULL -->
+<!-- / CODE WITH US - Paid -->
 
-<!-- CODE WITH US - CCC -->
-<h2 class="epic_title" id="Civic_Community_Contributions">Code With Us / Civic Community Contributions</h2>
+<!-- CODE WITH US - Volunteer -->
+<h2 class="epic_title" id="Code_With_Us_Volunteer">Code With Us - Volunteer</h2>
 
-### What is Civic Community Contribution
+### What is Code With Us - Volunteer
 
 {::options parse_block_html="true" /}
 <div class="page-section">
 
-"Civic Community Contributions" are challenges that make space for the developers motivated by pubic spirit to make a difference where they live. These community members have told us they would like to contribute to government open source projects as volunteers, because the want to have a positive impact in their town, city and province. Unlike our contributions for pay, volunteer contributions would be accepted under a timeline that aligns with the needs of volunteer contributors. See what we are up to and contribute on our [Trello board](https://trello.com/b/4F46oDkv/devex-challenge-contribution).
+Code With Us/Volunteer make space for the developers motivated by pubic spirit to make a difference where they live. These community members have told us they would like to contribute to government open source projects as volunteers, because the want to have a positive impact in their town, city and province. Unlike our contributions for pay, volunteer contributions would be accepted under a timeline that aligns with the needs of volunteer contributors. See what we are up to and contribute on our [Trello board](https://trello.com/b/4F46oDkv/devex-challenge-contribution).
 </div>
 
 
@@ -415,8 +415,8 @@ Conduct simulation of service
 
 Evaluate and Refine the concierge MVP 
  
-Please visit the Community Contributions [KanBoard](https://trello.com/b/4F46oDkv/community-contribution)
+Please visit the Code With Us/Volunteer [KanBoard](https://trello.com/b/4F46oDkv/community-contribution)
 
 </div>
 
-<!-- / CODE WITH US - CCC -->
+<!-- / CODE WITH US - Volunteer -->
