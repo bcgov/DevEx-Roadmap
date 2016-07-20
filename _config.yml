@@ -40,10 +40,10 @@ navigation:
   url: '#Sprint_With_Us'
 - text: Code For Government Ready Products
   url: '#Code4Gov'
-- text: Code With Us / Pay 4 Pull
-  url: '#Code_With_Us_Pay_4_Pull'
-- text: Code With Us / Civic Community Contributions
-  url: '#Civic_Community_Contributions'
+- text: Code With Us - Paid
+  url: '#Code_With_Us_Paid'
+- text: Code With Us - Volunteer
+  url: '#Code_With_Us_Volunteer'
 
 repos:
 - name: BC Developers' Exchange Roadmap
