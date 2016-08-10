@@ -8,13 +8,18 @@
         });
         smoothScroll.init();
     </script>
-    <div class="wrap">{% assign repo_url = site.repos[0].url %}
-        <p>This project is maintained by <a href="{{ site.author.url }}">{{ site.author.name }}</a>. The source is
-            available at <a href="{{ repo_url }}">{{ repo_url }}</a>.</p>
+    <div class="wrap">
+        <ul class="site-footer-items">
+            <li><a href="{{site.bcdevevelopers_exchange_url}}/disclaimer">Disclaimer</a>
+            </li>
+            <li><a href="{{site.bcdevevelopers_exchange_url}}/privacy">Privacy</a>
+            </li>
+            <li><a href="{{site.bcdevevelopers_exchange_url}}/accessibility">Accessibility</a>
+            </li>
+            <li><a href="{{site.bcdevevelopers_exchange_url}}/copyright">Copyright</a>
+            </li>
+        </ul>
 
-        The <a href="https://github.com/18F/guides-template/">18F Guides theme</a> is based on <a
-                href="https://github.com/cfpb/docter/">DOCter</a> from <a href="http://cfpb.github.io/">CFPB</a>.</p>
-        <p><a href="{{ repo_url }}/edit/18f-pages/{{ page.path }}">Edit this page</a> or <a
-                href="{{ repo_url }}/issues">file an issue</a> on GitHub.</p>
+         <image class="bc_logo" src="images/bc-sponsor.jpg"></image>
     </div><!--/.wrap -->
 </footer>

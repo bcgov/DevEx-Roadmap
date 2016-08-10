@@ -1,4 +1,4 @@
-name: BC Developers' Exchange Roadmap
+name: BCDevExchange Roadmap
 exclude:
 - CONTRIBUTING.md
 - Gemfile
@@ -62,6 +62,8 @@ defaults:
     path: ""
   values:
     layout: "bc_default"
+
+bcdevevelopers_exchange_url: https://www.bcdevexchange.org
 
 # Configuration for jekyll_pages_api_search plugin gem.
 jekyll_pages_api_search:
