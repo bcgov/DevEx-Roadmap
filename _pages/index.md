@@ -11,7 +11,7 @@ published: true
 
 <div class="page-section">
 
-The BCDevExchange is experimenting with new ways for tech innovators and government to work together, grow B.C.’s economy, and make services for British Columbians better.
+The BC Developers’ Exchange (BCDevExchange) is experimenting with new ways for tech innovators and government to work together, grow B.C.’s economy, and make services for British Columbians better.
 
 To build better technology services and help B.C.’s tech industry grow we are:
 
@@ -29,16 +29,16 @@ To build better technology services and help B.C.’s tech industry grow we are:
 
 <div class="page-section">
 
-We are partnering with our community – the developers, app builders, start-ups and public sector innovators - who we intend to be users of the BCDevExchange.
+We are sharing our 2016/17 service roadmap as part of a concerted effort to engage with B.C.’s tech community, and to enable them to help shape, refine and contribute to the development of the BCDevExchange.
 
-Early on, B.C.’s tech community told us we should not build the BCDevExchange in isolation, advice we have taken to heart. 
+Early on, B.C.’s tech community told us we should build the BCDevExchange in collaboration; advice we have taken to heart.
 
-So we are learning how to work in the open.  From the beginning we published the open source code that powers the BCDevExchange app in GitHub, the popular online code sharing platform, and worked to openly share a growing number of digital resources, including APIs, code and data. 
+From the beginning, we published the open source code that powers the BCDevExchange app in GitHub, the popular online code sharing platform, and worked to openly share a growing number of digital resources, including APIs, code and data.
 
-We are sharing our 2016/17 service roadmap as part of a concerted effort to engage with B.C.’s tech community to enable them to help shape, refine and contribute to the development of the BCDevExchange. 
+We are partnering with the developers, app builders, start-ups and public sector innovators; those who we want as users of the BCDevExchange.
 
-We invite you to see what doing, and to provide your advice and contributions for how to evolve the BC Developers’ Exchange. 
-
+We invite you to see what we are doing, and we welcome your advice and contributions on how to evolve the BCDevExchange.
+ 
 
 </div>
 
@@ -46,14 +46,14 @@ We invite you to see what doing, and to provide your advice and contributions fo
 
 <div class="page-section">
 
-The BCDevExchange team is treating the BC Developers’ Exchange initiative as a type of “Lean Start-up” effort.  We do customer-centered service design and use an Agile Methodology. We build, test and refine based on our user’s feedback to ensure we deliver value to our users. 
+The BCDevExchange team is treating this initiative as a type of “lean start-up” effort, with a customer-centered service design and an Agile methodology. We build, test and refine based on our user’s feedback to ensure we deliver value to them.
 
-The roadmap was derived through work we did with our community last year, and may change based on feedback from our community this year. 
+The roadmap was derived through work we did with our community last year, and may change based on further feedback from our community.
 
-To create the roadmap, we first examined our research findings on common business needs in the community. We then determined how we could meet those business needs with a range of services which you will find in this roadmap.  
+To create the roadmap, we first examined our research findings on common business needs in the community. We then determined how we could meet those business needs with a range of services that you will find in this roadmap.
 
-We realized business needs could be themed into cultural, process and technological transformations; the collective objective being to accelerate the speed of value delivery and increase the quality at a code base level. 
-
+We realized that business needs could be grouped into cultural, process and technological transformations with the objectives of accelerating the speed of delivering value and increasing code quality.
+ 
 
 </div>
 
@@ -67,7 +67,7 @@ Each Epic has a high-level user story and the stages we will follow, beginning w
 
 For more detail, each Epic is broken down into smaller user stories which can be viewed and commented on in our Kanban boards. At the smaller user story level, you can find and explore the tasks and associated artifacts related to each story.
 
-These Kanban boards organize our user stories into three groups: our product backlog, work underway during our current two-week development sprint, and a work already completed in the done column.
+These Kanban boards organize our user stories into three groups. Using Agile parlance we have our product backlog, work currently underway during our current two-week development sprint, and completed work.
 
 To see what we're working on please visit our [Kanboard](https://trello.com/b/j3Ol7kEr/a-roadmap)
 
@@ -77,7 +77,7 @@ To see what we're working on please visit our [Kanboard](https://trello.com/b/j3
 
 <div class="page-section">
 
-We encourage you to explore, examine and share your ideas as we are always looking for input that will help us provide the most user value.
+We encourage you to explore, examine and share your ideas as we are always looking for input that will help us provide greatest value to our users.
 
 These are the ways you can contribute to the roadmap:
 
@@ -101,7 +101,7 @@ To see what we're working on please visit our [Kanboard](https://trello.com/b/j3
 
 <div class="page-section">
 
-The BCDevExchange is experimenting with how we – in the B.C. public sector - deliver digital service projects. The intent is to deliver faster and continuous user value with new tools and methods using the five service concepts that follow.
+The BCDevExchange is experimenting with how we – the B.C. public sector - deliver digital service projects. The intent is to deliver faster and continuous user value with new tools and methods using the five service concepts that follow.
 
 This year we are looking for a few government projects to run through a concept we’re calling ‘Kick Start Your First Release’.  The idea is a bootcamp for project teams new to these methodologies: 
 
@@ -111,7 +111,7 @@ This year we are looking for a few government projects to run through a concept 
 -	Agile Methodology and Scrum
 -	DevOps 
 
-Government staff on these projects will be trained in these methodologies so they speak the same language as B.C. start-ups and tech entrepreneurs, helping collaboration. A Kick Start project would run until the team completed a series of sprints and made a first release – which could be a working prototype or the first release of production features.  Once the first release was complete the project team could return to their business unit where they could sustain and continue the effort.
+Government staff on these projects will be trained in these methodologies so they speak the same language as B.C. start-ups and tech entrepreneurs, helping collaboration. A Kick Start project would run until the team completed a series of sprints and made a first release – which could be a working prototype or the first release of production features.  Once the first release is complete the project team could return to their business unit where they could sustain and continue the effort.
 
 Kick Start projects will create a steady supply of code, data, APIs, and paid opportunities for developers who are interested in working with us.
 
@@ -130,11 +130,11 @@ Have thoughts about this idea? Let us know what you think on our [Trello board](
 
 I should be able to sponsor my first ever continuous service improvement initiative...
 
-using the agile methodology, UX/human centered service design, open design/development, and devOps...
+using the Agile methodology, UX/human centered service design, open design/development, and DevOps...
 
 with the assistance of a ready-made program that will train my staff and connect with entrepreneurs and developers...
 
-so that I have tangible results within 6-9 months and a functional, complete, team that can sustain the initiative into future years.
+so that I have tangible results within 6-9 months and a functional, complete, team that can sustain the initiative into the future.
 
 </div>
 
@@ -157,7 +157,7 @@ Work with one or more teams that has expressed a need and develop ideas through 
 
 - Co-create the curriculum with an early adopter
 
-Evaluate and Refine the concierge MVP
+Evaluate and refine the concierge MVP
 
 Engage potential delivery partners
 
@@ -168,9 +168,9 @@ Vist the Kick Start [Kanboard](https://trello.com/b/z5aY0htv/kick-start)
 
 <!-- / KICKSTART -->
 <!-- SPRINT WITH US -->
-<h2 id="Sprint_With_Us">Sprint With Us</h2>
+<h2 id="Sprint_with_Us">Sprint with Us</h2>
 
-### What is Sprint With Us
+### What is Sprint with Us
 
 {::options parse_block_html="true" /}
 <div class="page-section">
@@ -236,7 +236,7 @@ Visit the Sprint With Us [KanBoard](https://trello.com/b/5GaODBBc/sprint-with-us
 <!-- CODE FOR GOVERNMENT READY PRODUCTS -->
 <h2 id="Code4Gov">Code for Government Ready Products</h2>
 
-### What is Code For Gov Ready Products
+### What is Code for Gov Ready Products
 
 {::options parse_block_html="true" /}
 <div class="page-section">
@@ -303,9 +303,9 @@ Visit the Code4Gov [KanBoard](https://trello.com/b/39R3K5dd/code-4-gov)
 {::options parse_block_html="true" /}
 <div class="page-section">
 
-Code With Us/Paid will be a foundational tool for collaboration on the BCDevExchange between government projects and the tech community. An experimental procurement model formerly called ‘Pay for Pull’, Code With Us/Paid offer a monetary reward, or a bounty are new way to attract developers to work on public sector tech projects. We create an issue in GitHub, the popular code sharing platform, and label it with ‘Help Wanted” and a value (e.g. $1000). In the issue we will explain what we want done, sparking conversation between government technical staff and developers interested in doing the work. Interested developers can do the work and send us their code in GitHub – using a pull request. If we accept the code, we pay the developer via PayPal. 
+Code With Us - Paid will be a foundational tool for collaboration on the BCDevExchange between government projects and the tech community. An experimental procurement model formerly called ‘Pay for Pull’, Code with Us - Paid offers a monetary reward, or  bounty as a new way to attract developers to work on public sector tech projects. We create an issue in GitHub, the popular code sharing platform, and label it with ‘Help Wanted” and a value (e.g. $1000). In the issue we will explain what we want done, sparking conversation between government technical staff and developers interested in doing the work. Interested developers can do the work and send us their code in GitHub – using a pull request. If we accept the code, we pay the developer via PayPal. 
 
-We tested this model and are now making changes based on what we learned from our community feedback. These changes include a way to assign the work to one developer, transaction amounts higher than $1000, more payment options than just PayPal, notification of challenges and ways to improve the confidence of government technical contacts responsible for accepting code submissions. Track our progress on our [Trello board](https://trello.com/b/HiFIKN0j/devex-challenge-bounty) and tell us what you think.
+We tested this model and are now making changes based on what we learned from our community feedback. These changes include a way to assign the work to one developer, transaction amounts higher than $1000, more payment options than just PayPal, notification of challenges and ways to improve the confidence of the government technical contacts responsible for accepting code submissions. Track our progress on our [Trello board](https://trello.com/b/HiFIKN0j/devex-challenge-bounty) and tell us what you think.
 
 </div>
 
@@ -353,9 +353,9 @@ Work with one or more teams that has expressed a need and develop ideas through 
 
 Conduct simulation of service 
 
-Evaluate and Refine the concierge MVP 
+Evaluate and refine the concierge MVP 
  
-Please visit the Code With Us/Paid [KanBoard](https://trello.com/b/HiFIKN0j/p4p)
+Please visit the Code With Us - Paid [KanBoard](https://trello.com/b/HiFIKN0j/p4p)
 
 </div>
 <!-- / CODE WITH US - Paid -->
@@ -368,7 +368,7 @@ Please visit the Code With Us/Paid [KanBoard](https://trello.com/b/HiFIKN0j/p4p)
 {::options parse_block_html="true" /}
 <div class="page-section">
 
-Code With Us/Volunteer make space for the developers motivated by pubic spirit to make a difference where they live. These community members have told us they would like to contribute to government open source projects as volunteers, because the want to have a positive impact in their town, city and province. Unlike our contributions for pay, volunteer contributions would be accepted under a timeline that aligns with the needs of volunteer contributors. See what we are up to and contribute on our [Trello board](https://trello.com/b/4F46oDkv/devex-challenge-contribution).
+Code With Us - Volunteer make space for the developers motivated by pubic spirit to make a difference where they live. These community members have told us they would like to contribute to government open source projects as volunteers, because the want to have a positive impact in their town, city and province. Unlike our contributions for pay, volunteer contributions would be accepted under a timeline that aligns with the needs of volunteer contributors. See what we are up to and contribute on our [Trello board](https://trello.com/b/4F46oDkv/devex-challenge-contribution).
 </div>
 
 
@@ -413,7 +413,7 @@ Work with one or more teams that has expressed a need and develop ideas through 
 
 Conduct simulation of service 
 
-Evaluate and Refine the concierge MVP 
+Evaluate and refine the concierge MVP 
  
 Please visit the Code With Us/Volunteer [KanBoard](https://trello.com/b/4F46oDkv/community-contribution)
 
