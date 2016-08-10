@@ -1,7 +1,6 @@
 
 @font-face {
-	font-family: 'Myriad-Pro';
-	src: url('../fonts/MyriadWebPro.ttf');
+	font-family: 'Open Sans',Arial,sans-serif;
 }
 
 $app-bg: #FFF;
@@ -16,12 +15,12 @@ html {
 
 body {
 	margin: 0;
-	font-family: Myriad-Pro, Calibri, Arial, Sans Serif;
+	font-family: 'Open Sans',Arial,sans-serif;
 	color: $app-base-font-color;
 }
 
 h1, h2, h3, h4, h5 {
-	font-family: Myriad-Pro, Calibri, Arial, Sans Serif;
+	font-family: 'Open Sans',Arial,sans-serif;
 	font-weight: 600;
 }
 
@@ -40,7 +39,7 @@ h3 {
 	font-size: 1.8rem;
 	font-weight: bold;
 	color: #FFF;
-	background: #2b5580;
+	background: #333;
 }
 
 p {
@@ -162,29 +161,26 @@ header {
 	width: 100%;
 	height: 6.5rem;
 	padding: 0;
-	background-color: #003366;
-	border-bottom: 3px solid #fcba19;
+	background-color: #333;
+	border-bottom: 3px solid #333;
 	z-index: 100;
 
 	div.wrap {
 		margin-top: 0.9rem;
 		padding-top: 0;
-		font-family: Myriad-Pro, Calibri, Arial, Sans Serif;
+		font-family: 'Open Sans',Arial,sans-serif;;
 		color: #FFF;
 	}
 
 	div.back-link {
 		margin-top: 1rem;
-		font-family: Myriad-Pro, Calibri, Arial, Sans Serif;
+		font-family: 'Open Sans',Arial,sans-serif;;
 		color: #FFF;
 	}
 
 	h1.site-title {
 		width: auto;
 		padding-top: 0.7rem;
-		padding-left: 18rem;
-		background-image: url(../../images/gov3_bc_logo.png);
-		background-repeat: no-repeat;
 	}
 }
 
@@ -192,9 +188,8 @@ a.title-link,
 a.title-link:hover,
 a.title-link:active,
 a.title-link:focus {
-	font-family: Myriad-Pro, Calibri, Arial, Sans Serif;
-	font-size: 2.6rem;
-	font-weight: 400;
+	font-family: 'Open Sans',Arial,sans-serif;;
+	font-weight: 500;
 	color: #FFF;
 
 	/* Shrinkg type size to ensure banner title text doesn't spill over on mobile devices */
@@ -229,19 +224,32 @@ footer {
 	font-size: 1.4rem;
 	font-weight: 400;
 	color: #FFF;
-	background-color: #036;
+	background-color: #FFF;
 	border-top: 2px solid #fcba19;
+	line-height: 40px;
+
+	.bc_logo {
+		float: right!important;
+	}
 
 	p {
 		font-size: 1.4rem;
 		color: #FFF;
 	}
 
-	a,
-	a:link,
-	a:visited {
-		color: #FFF;
-		border-bottom-color: #FFF;
+	ul {
+		list-style-type: none ;
+		li {
+			float: left;
+			a {
+				display: block;
+				padding: 16px;
+				text-align: left;
+				font-size: 12px;
+				font-weight: 500;
+				outline-color: rgb(46, 163, 242);
+			}
+		}
 	}
 }
 
@@ -274,7 +282,7 @@ aside {
 	a:visited {
 		width: 100%;
 		padding: 1rem;
-		color: #1a5a96;
+		color: #333;
 	}
 
 	a:hover,
