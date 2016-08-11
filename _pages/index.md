@@ -115,7 +115,7 @@ Government staff on these projects will be trained in these methodologies so the
 
 Kick Start projects will create a steady supply of code, data, APIs, and paid opportunities for developers who are interested in working with us.
 
-Have thoughts about this idea? Let us know what you think on our [Trello board](https://trello.com/b/z5aY0htv/kick-start).
+Have thoughts about this idea? Let us know what you think on our [Kanboard](https://trello.com/b/z5aY0htv/kick-start).
 
 
 </div>
