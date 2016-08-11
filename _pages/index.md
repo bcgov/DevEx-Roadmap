@@ -176,7 +176,7 @@ Vist the Kick Start [Kanboard](https://trello.com/b/z5aY0htv/kick-start)
 
 <div class="page-section">
 
-We want to reduce the paperwork required for the tech sector to work with government, and speed up value creation for the people served by public sector organizations. ‘Sprint with Us’ is a concept to make it easier and faster for the tech community to work with government. This new procurement model would allow government projects to round-out Agile sprint teams to work on government IT projects, rapidly bringing new people and skills onto a sprint team so the work can continue without interruption.  Help us design an easier way for small, experienced and qualified development teams to quickly step into government projects. We welcome your ideas on our [Trello board](https://trello.com/b/5GaODBBc/sprint-with-us).
+We want to reduce the paperwork required for the tech sector to work with government, and speed up value creation for the people served by public sector organizations. ‘Sprint with Us’ is a concept to make it easier and faster for the tech community to work with government. This new procurement model would allow government projects to round-out Agile sprint teams to work on government IT projects, rapidly bringing new people and skills onto a sprint team so the work can continue without interruption.  Help us design an easier way for small, experienced and qualified development teams to quickly step into government projects. We welcome your ideas on our [Kanboard](https://trello.com/b/5GaODBBc/sprint-with-us).
 
 
 </div>
