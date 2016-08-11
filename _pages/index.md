@@ -168,7 +168,7 @@ Vist the Kick Start [Kanboard](https://trello.com/b/z5aY0htv/kick-start)
 
 <!-- / KICKSTART -->
 <!-- SPRINT WITH US -->
-<h2 id="Sprint_with_Us">Sprint with Us</h2>
+<h2 id="Sprint_With_Us">Sprint with Us</h2>
 
 ### What is Sprint with Us
 
