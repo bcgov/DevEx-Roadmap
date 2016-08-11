@@ -369,7 +369,7 @@ Please visit the Code With Us - Paid [KanBoard](https://trello.com/b/HiFIKN0j/p4
 {::options parse_block_html="true" /}
 <div class="page-section">
 
-Code With Us - Volunteer make space for the developers motivated by pubic spirit to make a difference where they live. These community members have told us they would like to contribute to government open source projects as volunteers, because the want to have a positive impact in their town, city and province. Unlike our contributions for pay, volunteer contributions would be accepted under a timeline that aligns with the needs of volunteer contributors. See what we are up to and contribute on our [Trello board](https://trello.com/b/4F46oDkv/devex-challenge-contribution).
+Code With Us - Volunteer make space for the developers motivated by pubic spirit to make a difference where they live. These community members have told us they would like to contribute to government open source projects as volunteers, because the want to have a positive impact in their town, city and province. Unlike our contributions for pay, volunteer contributions would be accepted under a timeline that aligns with the needs of volunteer contributors. See what we are up to and contribute on our [Kanboard](https://trello.com/b/4F46oDkv/devex-challenge-contribution).
 </div>
 
 
