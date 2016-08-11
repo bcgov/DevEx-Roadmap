@@ -29,7 +29,7 @@ To build better technology services and help B.C.’s tech industry grow we are:
 
 <div class="page-section">
 
-We are sharing our 2016/17 service roadmap as part of a concerted effort to engage with B.C.’s tech community, and to enable them to help shape, refine and contribute to the development of the BCDevExchange.
+We are sharing our service roadmap as part of a concerted effort to engage with B.C.’s tech community, and to enable them to help shape, refine and contribute to the development of the BCDevExchange.
 
 Early on, B.C.’s tech community told us we should build the BCDevExchange in collaboration; advice we have taken to heart.
 
