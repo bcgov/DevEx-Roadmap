@@ -2,7 +2,7 @@
     "kind": "Service",
     "apiVersion": "v1",
     "metadata": {
-        "name": "devex-roadmap",
+        "name": "devex-roadmap-prod",
         "creationTimestamp": null,
         "labels": {
             "app": "devex-roadmap"
@@ -22,7 +22,7 @@
         ],
         "selector": {
             "app": "devex-roadmap",
-            "deploymentconfig": "devex-roadmap"
+            "deploymentconfig": "devex-roadmap-prod"
         },
         "type": "ClusterIP",
         "sessionAffinity": "None"
