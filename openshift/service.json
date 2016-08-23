@@ -1,0 +1,33 @@
+{
+    "kind": "Service",
+    "apiVersion": "v1",
+    "metadata": {
+        "name": "devex-roadmap-prod",
+        "creationTimestamp": null,
+        "labels": {
+            "app": "devex-roadmap"
+        },
+        "annotations": {
+            "openshift.io/generated-by": "OpenShiftNewApp"
+        }
+    },
+    "spec": {
+        "ports": [
+            {
+                "name": "4000-tcp",
+                "protocol": "TCP",
+                "port": 4000,
+                "targetPort": 4000
+            }
+        ],
+        "selector": {
+            "app": "devex-roadmap",
+            "deploymentconfig": "devex-roadmap-prod"
+        },
+        "type": "ClusterIP",
+        "sessionAffinity": "None"
+    },
+    "status": {
+        "loadBalancer": {}
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "kind": "Route",
+    "apiVersion": "v1",
+    "metadata": {
+        "name": "devex-roadmap-prod",
+        "creationTimestamp": null,
+        "labels": {
+            "app": "devex-roadmap"
+        }
+    },
+    "spec": {
+        "host": "devex-roadmap-prod.pathfinder.bcgov",
+        "to": {
+            "kind": "Service",
+            "name": "devex-roadmap-prod"
+        },
+        "port": {
+            "targetPort": "4000-tcp"
+        }
+    }
+}
