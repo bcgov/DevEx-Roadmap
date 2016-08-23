@@ -115,7 +115,7 @@ Government staff on these projects will be trained in these methodologies so the
 
 Kick Start projects will create a steady supply of code, data, APIs, and paid opportunities for developers who are interested in working with us.
 
-Have thoughts about this idea? Let us know what you think on our [Trello board](https://trello.com/b/z5aY0htv/kick-start).
+Have thoughts about this idea? Let us know what you think on our [Kanboard](https://trello.com/b/z5aY0htv/kick-start).
 
 
 </div>
@@ -168,14 +168,15 @@ Vist the Kick Start [Kanboard](https://trello.com/b/z5aY0htv/kick-start)
 
 <!-- / KICKSTART -->
 <!-- SPRINT WITH US -->
-<h2 id="Sprint_with_Us">Sprint with Us</h2>
+<h2 id="Sprint_With_Us">Sprint with Us</h2>
 
 ### What is Sprint with Us
 
 {::options parse_block_html="true" /}
+
 <div class="page-section">
 
-We want to reduce the paperwork required for the tech sector to work with government, and speed up value creation for the people served by public sector organizations. ‘Sprint with Us’ is a concept to make it easier and faster for the tech community to work with government. This new procurement model would allow government projects to round-out Agile sprint teams to work on government IT projects, rapidly bringing new people and skills onto a sprint team so the work can continue without interruption.  Help us design an easier way for small, experienced and qualified development teams to quickly step into government projects. We welcome your ideas on our [Trello board](https://trello.com/b/5GaODBBc/sprint-with-us).
+We want to reduce the paperwork required for the tech sector to work with government, and speed up value creation for the people served by public sector organizations. ‘Sprint with Us’ is a concept to make it easier and faster for the tech community to work with government. This new procurement model would allow government projects to round-out Agile sprint teams to work on government IT projects, rapidly bringing new people and skills onto a sprint team so the work can continue without interruption.  Help us design an easier way for small, experienced and qualified development teams to quickly step into government projects. We welcome your ideas on our [Kanboard](https://trello.com/b/5GaODBBc/sprint-with-us).
 
 
 </div>
@@ -241,7 +242,7 @@ Visit the Sprint With Us [KanBoard](https://trello.com/b/5GaODBBc/sprint-with-us
 {::options parse_block_html="true" /}
 <div class="page-section">
 
-The concept of ‘Code for Government Ready Products’ is to enable tech entrepreneurs and software developers to build products that can be easily accepted by government and rapidly deployed from the development environment to the production environment.  Current practice involves working through traditional procurements and traditional software development lifecycles where the rules and requirements for building information systems are written into voluminous documents that are hard to read, write and maintain.  The idea behind ‘Code for Government Ready Products’ is for  government to open source complete systems, with all the system  functionality and security, privacy, data conformance and other standards.  This way B.C tech entrepreneurs and software developers could take the system’s complete source code and modify the functions to solve a business need.  To make this all work we are exploring a combination of tools that allow for faster and easier collaboration with entrepreneurs, companies and start-ups in the B.C. tech sector. Come to our [Trello board](https://trello.com/b/39R3K5dd/code-4-gov) to collaborate.
+The concept of ‘Code for Government Ready Products’ is to enable tech entrepreneurs and software developers to build products that can be easily accepted by government and rapidly deployed from the development environment to the production environment.  Current practice involves working through traditional procurements and traditional software development lifecycles where the rules and requirements for building information systems are written into voluminous documents that are hard to read, write and maintain.  The idea behind ‘Code for Government Ready Products’ is for  government to open source complete systems, with all the system  functionality and security, privacy, data conformance and other standards.  This way B.C tech entrepreneurs and software developers could take the system’s complete source code and modify the functions to solve a business need.  To make this all work we are exploring a combination of tools that allow for faster and easier collaboration with entrepreneurs, companies and start-ups in the B.C. tech sector. Come to our [KanBoard](https://trello.com/b/39R3K5dd/code-4-gov) to collaborate.
 
 
 </div>
@@ -305,7 +306,7 @@ Visit the Code4Gov [KanBoard](https://trello.com/b/39R3K5dd/code-4-gov)
 
 Code With Us - Paid will be a foundational tool for collaboration on the BCDevExchange between government projects and the tech community. An experimental procurement model formerly called ‘Pay for Pull’, Code with Us - Paid offers a monetary reward, or  bounty as a new way to attract developers to work on public sector tech projects. We create an issue in GitHub, the popular code sharing platform, and label it with ‘Help Wanted” and a value (e.g. $1000). In the issue we will explain what we want done, sparking conversation between government technical staff and developers interested in doing the work. Interested developers can do the work and send us their code in GitHub – using a pull request. If we accept the code, we pay the developer via PayPal. 
 
-We tested this model and are now making changes based on what we learned from our community feedback. These changes include a way to assign the work to one developer, transaction amounts higher than $1000, more payment options than just PayPal, notification of challenges and ways to improve the confidence of the government technical contacts responsible for accepting code submissions. Track our progress on our [Trello board](https://trello.com/b/HiFIKN0j/devex-challenge-bounty) and tell us what you think.
+We tested this model and are now making changes based on what we learned from our community feedback. These changes include a way to assign the work to one developer, transaction amounts higher than $1000, more payment options than just PayPal, notification of challenges and ways to improve the confidence of the government technical contacts responsible for accepting code submissions. Track our progress on our [KanBoard](https://trello.com/b/HiFIKN0j/devex-challenge-bounty) and tell us what you think.
 
 </div>
 
@@ -368,7 +369,7 @@ Please visit the Code With Us - Paid [KanBoard](https://trello.com/b/HiFIKN0j/p4
 {::options parse_block_html="true" /}
 <div class="page-section">
 
-Code With Us - Volunteer make space for the developers motivated by pubic spirit to make a difference where they live. These community members have told us they would like to contribute to government open source projects as volunteers, because the want to have a positive impact in their town, city and province. Unlike our contributions for pay, volunteer contributions would be accepted under a timeline that aligns with the needs of volunteer contributors. See what we are up to and contribute on our [Trello board](https://trello.com/b/4F46oDkv/devex-challenge-contribution).
+Code With Us - Volunteer make space for the developers motivated by pubic spirit to make a difference where they live. These community members have told us they would like to contribute to government open source projects as volunteers, because the want to have a positive impact in their town, city and province. Unlike our contributions for pay, volunteer contributions would be accepted under a timeline that aligns with the needs of volunteer contributors. See what we are up to and contribute on our [Kanboard](https://trello.com/b/4F46oDkv/devex-challenge-contribution).
 </div>
 
 
