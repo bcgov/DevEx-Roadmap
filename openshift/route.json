@@ -2,35 +2,20 @@
     "kind": "Route",
     "apiVersion": "v1",
     "metadata": {
-        "name": "devex-roadmap",
+        "name": "devex-roadmap-prod",
         "creationTimestamp": null,
         "labels": {
             "app": "devex-roadmap"
         }
     },
     "spec": {
-        "host": "devex-roadmap.pathfinder.bcgov",
+        "host": "devex-roadmap-prod.pathfinder.bcgov",
         "to": {
             "kind": "Service",
-            "name": "devex-roadmap"
+            "name": "devex-roadmap-prod"
         },
         "port": {
             "targetPort": "4000-tcp"
         }
-    },
-    "status": {
-        "ingress": [
-            {
-                "host": "devex-roadmap.pathfinder.bcgov",
-                "routerName": "router",
-                "conditions": [
-                    {
-                        "type": "Admitted",
-                        "status": "True",
-                        "lastTransitionTime": "2016-07-12T22:33:27Z"
-                    }
-                ]
-            }
-        ]
     }
 }
