@@ -2,13 +2,12 @@
     "kind": "DeploymentConfig",
     "apiVersion": "v1",
     "metadata": {
-        "name": "devex-roadmap",
+        "name": "devex-roadmap-prod",
         "creationTimestamp": null,
         "labels": {
             "app": "devex-roadmap"
         },
         "annotations": {
-            "openshift.io/deployment.cancelled": "13",
             "openshift.io/generated-by": "OpenShiftNewApp"
         }
     },
@@ -38,7 +37,7 @@
                     "from": {
                         "kind": "ImageStreamTag",
                         "namespace": "devex-roadmap",
-                        "name": "devex-roadmap:latest"
+                        "name": "devex-roadmap:prod"
                     }
                 }
             }
@@ -47,14 +46,14 @@
         "test": false,
         "selector": {
             "app": "devex-roadmap",
-            "deploymentconfig": "devex-roadmap"
+            "deploymentconfig": "devex-roadmap-prod"
         },
         "template": {
             "metadata": {
                 "creationTimestamp": null,
                 "labels": {
                     "app": "devex-roadmap",
-                    "deploymentconfig": "devex-roadmap"
+                    "deploymentconfig": "devex-roadmap-prod"
                 },
                 "annotations": {
                     "openshift.io/generated-by": "OpenShiftNewApp"
@@ -64,7 +63,7 @@
                 "containers": [
                     {
                         "name": "devex-roadmap",
-                        "image": "172.50.0.2:5000/devex-roadmap/devex-roadmap@sha256:2a844564d28fca3d11c442dd96fe90292e08de5716a99ddcbc07fc449833902a",
+                        "image": " ",
                         "ports": [
                             {
                                 "containerPort": 4000,
