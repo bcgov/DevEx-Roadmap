@@ -19,13 +19,16 @@ To build better technology services and help B.C.’s tech industry grow we are:
 
 - Matching the business needs of government organizations in B.C. with innovations from B.C.’s technology industry.
 
-- Sharing government digital resources – code, data and APIs – that entrepreneurs can use to seed their businesses.  
+- Sharing government digital resources – code, data and APIs – that entrepreneurs can use to seed their businesses.
+
+
 
 </div>
 
 ### Why are we sharing our roadmap
 
 {::options parse_block_html="true" /}
+{% include progressbar.html %}
 
 <div class="page-section">
 
@@ -38,7 +41,7 @@ From the beginning, we published the open source code that powers the BCDevExcha
 We are partnering with the developers, app builders, start-ups and public sector innovators; those who we want as users of the BCDevExchange.
 
 We invite you to see what we are doing, and we welcome your advice and contributions on how to evolve the BCDevExchange.
- 
+
 
 </div>
 
@@ -53,7 +56,7 @@ The roadmap was derived through work we did with our community last year, and ma
 To create the roadmap, we first examined our research findings on common business needs in the community. We then determined how we could meet those business needs with a range of services that you will find in this roadmap.
 
 We realized that business needs could be grouped into cultural, process and technological transformations with the objectives of accelerating the speed of delivering value and increasing code quality.
- 
+
 
 </div>
 
@@ -96,6 +99,7 @@ To see what we're working on please visit our [Kanboard](https://trello.com/b/j3
 <h2 id="Kick_Start">Kick Start Your First Release</h2>
 
 ### What is Kick Start
+{% include p_kickstart.html %}
 
 {::options parse_block_html="true" /}
 
@@ -103,13 +107,13 @@ To see what we're working on please visit our [Kanboard](https://trello.com/b/j3
 
 The BCDevExchange is experimenting with how we – the B.C. public sector - deliver digital service projects. The intent is to deliver faster and continuous user value with new tools and methods using the five service concepts that follow.
 
-This year we are looking for a few government projects to run through a concept we’re calling ‘Kick Start Your First Release’.  The idea is a bootcamp for project teams new to these methodologies: 
+This year we are looking for a few government projects to run through a concept we’re calling ‘Kick Start Your First Release’.  The idea is a bootcamp for project teams new to these methodologies:
 
 -	Design Thinking
--	Customer-centered Service Design 
+-	Customer-centered Service Design
 -	Lean Start-up and minimum viable product development (e.g. rapid prototyping)
 -	Agile Methodology and Scrum
--	DevOps 
+-	DevOps
 
 Government staff on these projects will be trained in these methodologies so they speak the same language as B.C. start-ups and tech entrepreneurs, helping collaboration. A Kick Start project would run until the team completed a series of sprints and made a first release – which could be a working prototype or the first release of production features.  Once the first release is complete the project team could return to their business unit where they could sustain and continue the effort.
 
@@ -171,6 +175,7 @@ Vist the Kick Start [Kanboard](https://trello.com/b/z5aY0htv/kick-start)
 <h2 id="Sprint_With_Us">Sprint with Us</h2>
 
 ### What is Sprint with Us
+{% include p_sprintwu.html %}
 
 {::options parse_block_html="true" /}
 
@@ -238,6 +243,7 @@ Visit the Sprint With Us [KanBoard](https://trello.com/b/5GaODBBc/sprint-with-us
 <h2 id="Code4Gov">Code for Government Ready Products</h2>
 
 ### What is Code for Gov Ready Products
+{% include p_code4gov.html %}
 
 {::options parse_block_html="true" /}
 <div class="page-section">
@@ -300,11 +306,12 @@ Visit the Code4Gov [KanBoard](https://trello.com/b/39R3K5dd/code-4-gov)
 <h2 class="epic_title" id="Code_With_Us_Paid">Code With Us - Paid</h2>
 
 ### What is Code With Us – Paid
+{% include p_codewupaid.html %}
 
 {::options parse_block_html="true" /}
 <div class="page-section">
 
-Code With Us - Paid will be a foundational tool for collaboration on the BCDevExchange between government projects and the tech community. An experimental procurement model formerly called ‘Pay for Pull’, Code with Us - Paid offers a monetary reward, or  bounty as a new way to attract developers to work on public sector tech projects. We create an issue in GitHub, the popular code sharing platform, and label it with ‘Help Wanted” and a value (e.g. $1000). In the issue we will explain what we want done, sparking conversation between government technical staff and developers interested in doing the work. Interested developers can do the work and send us their code in GitHub – using a pull request. If we accept the code, we pay the developer via PayPal. 
+Code With Us - Paid will be a foundational tool for collaboration on the BCDevExchange between government projects and the tech community. An experimental procurement model formerly called ‘Pay for Pull’, Code with Us - Paid offers a monetary reward, or  bounty as a new way to attract developers to work on public sector tech projects. We create an issue in GitHub, the popular code sharing platform, and label it with ‘Help Wanted” and a value (e.g. $1000). In the issue we will explain what we want done, sparking conversation between government technical staff and developers interested in doing the work. Interested developers can do the work and send us their code in GitHub – using a pull request. If we accept the code, we pay the developer via PayPal.
 
 We tested this model and are now making changes based on what we learned from our community feedback. These changes include a way to assign the work to one developer, transaction amounts higher than $1000, more payment options than just PayPal, notification of challenges and ways to improve the confidence of the government technical contacts responsible for accepting code submissions. Track our progress on our [KanBoard](https://trello.com/b/HiFIKN0j/devex-challenge-bounty) and tell us what you think.
 
@@ -321,7 +328,7 @@ We tested this model and are now making changes based on what we learned from ou
 
 I want to easily contribute work to BC Public Sector programs...
 
-so that I can be paid, help improve services and contribute to my community while focusing on writing code rather than procurement paperwork. 
+so that I can be paid, help improve services and contribute to my community while focusing on writing code rather than procurement paperwork.
 
 ----
 
@@ -340,22 +347,22 @@ so that I can improve my programs and services faster and easier than using trad
 Go and talk to people about the list of refined / new features
 
 - Assignment mechanism
-- Notification service  
-- Badging/Points framework 
-- Automated tool chain 
+- Notification service
+- Badging/Points framework
+- Automated tool chain
 
-Confirm initial customer projects 
+Confirm initial customer projects
 
-Liaise with key stakeholders to confirm adherence with policy and legal requirements 
+Liaise with key stakeholders to confirm adherence with policy and legal requirements
 
-Work with one or more teams that has expressed a need and develop ideas through practice 
+Work with one or more teams that has expressed a need and develop ideas through practice
 
-- Co-create the prototype with early adopters in the community 
+- Co-create the prototype with early adopters in the community
 
-Conduct simulation of service 
+Conduct simulation of service
 
-Evaluate and refine the concierge MVP 
- 
+Evaluate and refine the concierge MVP
+
 Please visit the Code With Us - Paid [KanBoard](https://trello.com/b/HiFIKN0j/p4p)
 
 </div>
@@ -365,6 +372,7 @@ Please visit the Code With Us - Paid [KanBoard](https://trello.com/b/HiFIKN0j/p4
 <h2 class="epic_title" id="Code_With_Us_Volunteer">Code With Us - Volunteer</h2>
 
 ### What is Code With Us - Volunteer
+{% include p_codewuvolunteer.html %}
 
 {::options parse_block_html="true" /}
 <div class="page-section">
@@ -397,25 +405,25 @@ so that I can improve my programs and services faster and build a community of k
 {::options parse_block_html="true" /}
 <div class="page-section">
 
-Go and talk to people about the list of refined / new features 
+Go and talk to people about the list of refined / new features
 
 - Assignment mechanism
-- Notification service  
-- Badging/Points framework 
-- Automated tool chain 
+- Notification service
+- Badging/Points framework
+- Automated tool chain
 
-Confirm initial customer projects 
+Confirm initial customer projects
 
-Liaise with key stakeholders to confirm adherence with policy and legal requirements 
+Liaise with key stakeholders to confirm adherence with policy and legal requirements
 
-Work with one or more teams that has expressed a need and develop ideas through practice 
+Work with one or more teams that has expressed a need and develop ideas through practice
 
-- Co-create the prototype with early adopters in the community 
+- Co-create the prototype with early adopters in the community
 
-Conduct simulation of service 
+Conduct simulation of service
 
-Evaluate and refine the concierge MVP 
- 
+Evaluate and refine the concierge MVP
+
 Please visit the Code With Us/Volunteer [KanBoard](https://trello.com/b/4F46oDkv/community-contribution)
 
 </div>

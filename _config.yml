@@ -65,6 +65,14 @@ defaults:
 
 bcdevevelopers_exchange_url: https://www.bcdevexchange.org
 
+progressBarUrl: http://127.0.0.1:1337/#/app/cardprogress/
+board_code4gov: 57487bc6392545b588edd820
+board_codewupaid: 57487ba0800f04d9a7f145c2
+board_codewuvolunteer: 57487bf96d18dddf0cb88397
+board_kickstart: 574877755e36129a30a9df96
+board_sprintwu: 57487c078f1348fd0c339d99
+board_roadmap: 574876ddff45671f28a5cca6
+
 # Configuration for jekyll_pages_api_search plugin gem.
 jekyll_pages_api_search:
   # Uncomment this to speed up site generation while developing.
