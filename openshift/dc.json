@@ -1,0 +1,87 @@
+{
+    "kind": "DeploymentConfig",
+    "apiVersion": "v1",
+    "metadata": {
+        "name": "devex-roadmap",
+        "creationTimestamp": null,
+        "labels": {
+            "app": "devex-roadmap"
+        },
+        "annotations": {
+            "openshift.io/deployment.cancelled": "13",
+            "openshift.io/generated-by": "OpenShiftNewApp"
+        }
+    },
+    "spec": {
+        "strategy": {
+            "type": "Rolling",
+            "rollingParams": {
+                "updatePeriodSeconds": 1,
+                "intervalSeconds": 1,
+                "timeoutSeconds": 600,
+                "maxUnavailable": "25%",
+                "maxSurge": "25%"
+            },
+            "resources": {}
+        },
+        "triggers": [
+            {
+                "type": "ConfigChange"
+            },
+            {
+                "type": "ImageChange",
+                "imageChangeParams": {
+                    "automatic": true,
+                    "containerNames": [
+                        "devex-roadmap"
+                    ],
+                    "from": {
+                        "kind": "ImageStreamTag",
+                        "namespace": "devex-roadmap",
+                        "name": "devex-roadmap:latest"
+                    }
+                }
+            }
+        ],
+        "replicas": 1,
+        "test": false,
+        "selector": {
+            "app": "devex-roadmap",
+            "deploymentconfig": "devex-roadmap"
+        },
+        "template": {
+            "metadata": {
+                "creationTimestamp": null,
+                "labels": {
+                    "app": "devex-roadmap",
+                    "deploymentconfig": "devex-roadmap"
+                },
+                "annotations": {
+                    "openshift.io/generated-by": "OpenShiftNewApp"
+                }
+            },
+            "spec": {
+                "containers": [
+                    {
+                        "name": "devex-roadmap",
+                        "image": "172.50.0.2:5000/devex-roadmap/devex-roadmap@sha256:2a844564d28fca3d11c442dd96fe90292e08de5716a99ddcbc07fc449833902a",
+                        "ports": [
+                            {
+                                "containerPort": 4000,
+                                "protocol": "TCP"
+                            }
+                        ],
+                        "resources": {},
+                        "terminationMessagePath": "/dev/termination-log",
+                        "imagePullPolicy": "Always"
+                    }
+                ],
+                "restartPolicy": "Always",
+                "terminationGracePeriodSeconds": 30,
+                "dnsPolicy": "ClusterFirst",
+                "securityContext": {}
+            }
+        }
+    },
+    "status": {}
+}
