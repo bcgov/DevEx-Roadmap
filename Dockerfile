@@ -25,6 +25,9 @@ RUN chown -R jekyll:0 /guide && chmod -R 770 /guide
 
 USER jekyll
 
+
+ENV JEKYLL_ENV=production JEKYLL_CONFIG="--config _config.yml"
+
 EXPOSE 4000
 
-CMD ./go serve --host 0.0.0.0
+CMD ./go serve --host 0.0.0.0 ${JEKYLL_CONFIG}
