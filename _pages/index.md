@@ -84,7 +84,7 @@ We encourage you to explore, examine and share your ideas as we are always looki
 
 These are the ways you can contribute to the roadmap:
 
-- The code and content for the roadmap is all in this GitHub repo. Send us a pull request with your suggested edits.
+- The code and content for the roadmap is all in this [GitHub repo](https://github.com/bcgov/DevEx-Roadmap). Send us a pull request with your suggested edits.
 
 - If you have a question about the roadmap, open an issue in the repo and we will respond.
 
