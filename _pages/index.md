@@ -96,9 +96,9 @@ To see what we're working on please visit our [Kanboard](https://trello.com/b/j3
 
 <!-- / INTRODUCTION -->
 <!-- KICKSTART -->
-<h2 id="Kick_Start">Kick Start Your First Release</h2>
+<h2 id="Kick_Start">Continuous Service Improvement Lab</h2>
 
-### What is Kick Start
+### What is the Continuous Service Improvement (CSI) Lab?
 {% include p_kickstart.html %}
 
 {::options parse_block_html="true" /}
@@ -107,7 +107,7 @@ To see what we're working on please visit our [Kanboard](https://trello.com/b/j3
 
 The BCDevExchange is experimenting with how we – the B.C. public sector - deliver digital service projects. The intent is to deliver faster and continuous user value with new tools and methods using the five service concepts that follow.
 
-This year we are looking for a few government projects to run through a concept we’re calling ‘Kick Start Your First Release’.  The idea is a bootcamp for project teams new to these methodologies:
+This year we have been running a few government projects through a concept we’re calling the Continuous Service Improvement (CSI) Lab.  The idea is a bootcamp for project teams new to these methodologies:
 
 -	Design Thinking
 -	Customer-centered Service Design
@@ -115,9 +115,9 @@ This year we are looking for a few government projects to run through a concept 
 -	Agile Methodology and Scrum
 -	DevOps
 
-Government staff on these projects will be trained in these methodologies so they speak the same language as B.C. start-ups and tech entrepreneurs, helping collaboration. A Kick Start project would run until the team completed a series of sprints and made a first release – which could be a working prototype or the first release of production features.  Once the first release is complete the project team could return to their business unit where they could sustain and continue the effort.
+Government staff on these projects are being trained in these methodologies so they speak the same language as B.C. start-ups and tech entrepreneurs, helping collaboration. A CSI Lab project would run until the team completed a series of sprints and made a first release – which could be a working prototype or the first release of production features.  Once the first release is complete the project team will return to their business unit where they can sustain and continue the effort.
 
-Kick Start projects will create a steady supply of code, data, APIs, and paid opportunities for developers who are interested in working with us.
+CSI Lab projects will create a steady supply of code, data, APIs, and paid opportunities for developers who are interested in working with us.
 
 Have thoughts about this idea? Let us know what you think on our [Kanboard](https://trello.com/b/z5aY0htv/kick-start).
 
